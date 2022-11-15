@@ -1,0 +1,11 @@
+.text-red {
+	color: red;
+}
+
+.text-big {
+	font-size: 1.5rem;
+}
+
+.boxed {
+	border: 1px solid;
+}
