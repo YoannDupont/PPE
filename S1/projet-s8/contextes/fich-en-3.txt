@@ -1,0 +1,27 @@
+   message)
+
+   An Internet bot, web robot, robot or simply bot, is a software
+   application that runs automated tasks (scripts) over the Internet,
+   usually with the intent to imitate human activity on the Internet, such
+--
+
+   Efforts by web servers to restrict bots vary. Some servers have a
+   robots.txt file that contains the rules governing bot behavior on that
+   server. Any bot that does not follow the rules could, in theory, be
+   denied access to or removed from the affected website. If the posted
+--
+   rules is entirely voluntary. There would be no way to enforce the rules
+   or to ensure that a bot's creator or implementer reads or acknowledges
+   the robots.txt file. Some bots are "good" – e.g. search engine spiders
+   – while others are used to launch malicious attacks on, for example,
+   political campaigns.^[2]
+--
+
+   Min-Sun Kim proposed five concerns or issues that may arise when
+   communicating with a social robot, and they are avoiding the damage of
+   peoples' feelings, minimizing impositions, disapproval from others,
+   clarity issues, and how effective their messages may come across.^[1]
+
+   People who oppose social robots argue that they also take away from the
+   genuine creations of human relationships.^[1]
+

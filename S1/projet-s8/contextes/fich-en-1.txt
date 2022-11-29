@@ -1,0 +1,1744 @@
+   Page semi-protected
+
+Robot
+
+   From Wikipedia, the free encyclopedia
+--
+   Machine capable of carrying out a complex series of actions
+   automatically
+   This article is about mechanical robots. For software agents, see Bot.
+   For other uses of the term, see Robot (disambiguation).
+
+   ASIMO (2000) at the Expo 2005
+   Articulated welding robots used in a factory are a type of industrial
+   robot
+   The quadrupedal military robot Cheetah, an evolution of BigDog
+   (pictured), was clocked as the world's fastest legged robot in 2012,
+   beating the record set by an MIT bipedal robot in 1989.^[1]
+
+   A robot is a machine—especially one programmable by a computer—capable
+   of carrying out a complex series of actions automatically.^[2] A robot
+   can be guided by an external control device, or the control may be
+   embedded within. Robots may be constructed to evoke human form, but
+   most robots are task-performing machines, designed with an emphasis on
+   stark functionality, rather than expressive aesthetics.
+
+   Robots can be autonomous or semi-autonomous and range from humanoids
+   such as Honda's Advanced Step in Innovative Mobility (ASIMO) and TOSY's
+   TOSY Ping Pong Playing Robot (TOPIO) to industrial robots, medical
+   operating robots, patient assist robots, dog therapy robots,
+   collectively programmed swarm robots, UAV drones such as General
+   Atomics MQ-1 Predator, and even microscopic nano robots. By mimicking a
+   lifelike appearance or automating movements, a robot may convey a sense
+   of intelligence or thought of its own. Autonomous things are expected
+   to proliferate in the future, with home robotics and the autonomous car
+   as some of the main drivers.^[3]
+
+   The branch of technology that deals with the design, construction,
+   operation, and application of robots,^[4] as well as computer systems
+   for their control, sensory feedback, and information processing is
+   robotics. These technologies deal with automated machines that can take
+   the place of humans in dangerous environments or manufacturing
+   processes, or resemble humans in appearance, behavior, or cognition.
+   Many of today's robots are inspired by nature contributing to the field
+   of bio-inspired robotics. These robots have also created a newer branch
+   of robotics: soft robotics.
+
+   From the time of ancient civilization, there have been many accounts of
+--
+   automated machines, remote-control and wireless remote-control.
+
+   The term comes from a Slavic root, robot-, with meanings associated
+   with labor. The word 'robot' was first used to denote a fictional
+   humanoid in a 1920 Czech-language play R.U.R. (Rossumovi Univerzální
+   Roboti – Rossum's Universal Robots) by Karel Čapek, though it was
+   Karel's brother Josef Čapek who was the word's true
+   inventor.^[5]^[6]^[7] Electronics evolved into the driving force of
+   development with the advent of the first electronic autonomous robots
+   created by William Grey Walter in Bristol, England in 1948, as well as
+   Computer Numerical Control (CNC) machine tools in the late 1940s by
+   John T. Parsons and Frank L. Stulen.
+
+   The first modern digital and programmable robot was invented by George
+   Devol in 1954 and spawned his seminal robotics company, Unimation. The
+   first Unimate was sold to General Motors in 1961 where it lifted pieces
+   of hot metal from die casting machines at the Inland Fisher Guide Plant
+   in the West Trenton section of Ewing Township, New Jersey.^[8]
+
+   Robots have replaced humans^[9] in performing repetitive and dangerous
+   tasks which humans prefer not to do, or are unable to do because of
+   size limitations, or which take place in extreme environments such as
+   outer space or the bottom of the sea. There are concerns about the
+   increasing use of robots and their role in society. Robots are blamed
+   for rising technological unemployment as they replace workers in
+   increasing numbers of functions.^[10] The use of robots in military
+   combat raises ethical concerns. The possibilities of robot autonomy and
+   potential repercussions have been addressed in fiction and may be a
+   realistic concern in the future.
+--
+          + 2.1 Early beginnings
+          + 2.2 Remote-controlled systems
+          + 2.3 Origin of the term 'robot'
+          + 2.4 Early robots
+          + 2.5 Modern autonomous robots
+     * 3 Future development and trends
+          + 3.1 New functionalities and prototypes
+     * 4 Etymology
+     * 5 Modern robots
+          + 5.1 Mobile robot
+          + 5.2 Industrial robots (manipulating)
+          + 5.3 Service robot
+          + 5.4 Educational (interactive) robots
+          + 5.5 Modular robot
+          + 5.6 Collaborative robots
+     * 6 Robots in society
+          + 6.1 Autonomy and ethical questions
+          + 6.2 Military robots
+          + 6.3 Relationship to unemployment
+     * 7 Contemporary uses
+          + 7.1 General-purpose autonomous robots
+          + 7.2 Factory robots
+               o 7.2.1 Car production
+               o 7.2.2 Packaging
+               o 7.2.3 Electronics
+               o 7.2.4 Automated guided vehicles (AGVs)
+                    # 7.2.4.1 Early AGV-style robots
+                    # 7.2.4.2 Interim AGV technologies
+                    # 7.2.4.3 Intelligent AGVs (i-AGVs)
+          + 7.3 Dirty, dangerous, dull, or inaccessible tasks
+               o 7.3.1 Space probes
+               o 7.3.2 Telerobots
+               o 7.3.3 Automated fruit harvesting machines
+               o 7.3.4 Domestic robots
+          + 7.4 Military robots
+          + 7.5 Mining robots
+          + 7.6 Healthcare
+               o 7.6.1 Home automation for the elderly and disabled
+               o 7.6.2 Pharmacies
+          + 7.7 Research robots
+               o 7.7.1 Bionic and biomimetic robots
+               o 7.7.2 Nanorobots
+               o 7.7.3 Reconfigurable robots
+               o 7.7.4 Robotic, mobile laboratory operators
+               o 7.7.5 Soft-bodied robots
+               o 7.7.6 Swarm robots
+               o 7.7.7 Haptic interface robots
+          + 7.8 Contemporary art and sculpture
+     * 8 Robots in popular culture
+          + 8.1 Literature
+          + 8.2 Films
+          + 8.3 Sex robots
+          + 8.4 Problems depicted in popular culture
+     * 9 See also
+          + 9.1 Specific robotics concepts
+          + 9.2 Robotics methods and categories
+          + 9.3 Specific robots and devices
+          + 9.4 Other related articles
+     * 10 Further reading
+--
+Summary
+
+   Anthropomorphism in robots:
+   KITT (a fictional robot) is mentally anthropomorphic; it thinks like a
+   human.
+   iCub is physically anthropomorphic; it looks like a human.
+
+   The word robot can refer to both physical robots and virtual software
+   agents, but the latter are usually referred to as bots.^[11] There is
+   no consensus on which machines qualify as robots but there is general
+   agreement among experts, and the public, that robots tend to possess
+   some or all of the following abilities and functions: accept electronic
+   programming, process data or physical perceptions electronically,
+--
+   environment, and exhibit intelligent behavior, especially behavior
+   which mimics humans or other animals.^[12]^[13] Related to the concept
+   of a robot is the field of synthetic biology, which studies entities
+   whose nature is more comparable to living things than to machines.
+
+History
+
+   Main article: History of robots
+
+   The idea of automata originates in the mythologies of many cultures
+--
+
+   The 11th century Lokapannatti tells of how the Buddha's relics were
+   protected by mechanical robots (bhuta vahana yanta), from the kingdom
+   of Roma visaya (Rome); until they were disarmed by King Ashoka.^[22]
+
+--
+   basin.^[19]
+
+   Mark E. Rosheim summarizes the advances in robotics made by Muslim
+   engineers, especially al-Jazari, as follows:
+
+--
+     besides preserving, disseminating and building on the work of the
+     Greeks, was the concept of practical application. This was the key
+     element that was missing in Greek robotic science.^[19]^: 9 
+
+   Model of Leonardo's robot with inner workings. Possibly constructed by
+   Leonardo da Vinci around 1495.^[33]
+
+   In Renaissance Italy, Leonardo da Vinci (1452–1519) sketched plans for
+   a humanoid robot around 1495. Da Vinci's notebooks, rediscovered in the
+   1950s, contained detailed drawings of a mechanical knight now known as
+   Leonardo's robot, able to sit up, wave its arms and move its head and
+   jaw.^[34] The design was probably based on anatomical research recorded
+   in his Vitruvian Man. It is not known whether he attempted to build it.
+--
+   Flying Corps and in the same year built the first wire-guided rocket.
+
+Origin of the term 'robot'
+
+   'Robot' was first applied as a term for artificial automata in the 1920
+   play R.U.R. by the Czech writer, Karel Čapek. However, Josef Čapek was
+   named by his brother Karel as the true inventor of the term
+   robot.^[6]^[7] The word 'robot' itself was not new, having been in the
+   Slavic language as robota (forced labor), a term applied to peasants
+   obligated to compulsory service under the feudal system (see: Robot
+   Patent).^[46]^[47] Čapek's fictional story postulated the technological
+   creation of artificial human bodies without souls, and the old theme of
+   the feudal robota class eloquently fit the imagination of a new class
+   of manufactured, artificial workers.
+
+--
+   pronunciation "row-bot" had become predominant.
+
+Early robots
+
+   W. H. Richards with "George", 1932
+
+   In 1928, one of the first humanoid robots, Eric, was exhibited at the
+   annual exhibition of the Model Engineers Society in London, where it
+   delivered a speech. Invented by W. H. Richards, the robot's frame
+   consisted of an aluminium body of armour with eleven electromagnets and
+   one motor powered by a twelve-volt power source. The robot could move
+   its hands and head and could be controlled through remote control or
+   voice control.^[50] Both Eric and his "brother" George toured the
+--
+   Westinghouse Electric Corporation built Televox in 1926; it was a
+   cardboard cutout connected to various devices which users could turn on
+   and off. In 1939, the humanoid robot known as Elektro was debuted at
+   the 1939 New York World's Fair.^[52]^[53] Seven feet tall (2.1 m) and
+   weighing 265 pounds (120.2 kg), it could walk by voice command, speak
+--
+   up balloons, and move its head and arms. The body consisted of a steel
+   gear, cam and motor skeleton covered by an aluminum skin. In 1928,
+   Japan's first robot, Gakutensoku, was designed and constructed by
+   biologist Makoto Nishimura.
+
+Modern autonomous robots
+
+   The first electronic autonomous robots with complex behaviour were
+   created by William Grey Walter of the Burden Neurological Institute at
+   Bristol, England in 1948 and 1949. He wanted to prove that rich
+   connections between a small number of brain cells could give rise to
+   very complex behaviors – essentially that the secret of how the brain
+   worked lay in how it was wired up. His first robots, named Elmer and
+   Elsie, were constructed between 1948 and 1949 and were often described
+   as tortoises due to their shape and slow rate of movement. The
+   three-wheeled tortoise robots were capable of phototaxis, by which they
+   could find their way to a recharging station when they ran low on
+   battery power.
+--
+   Turing and John von Neumann were all turning towards a view of mental
+   processes in terms of digital computation. His work inspired subsequent
+   generations of robotics researchers such as Rodney Brooks, Hans Moravec
+   and Mark Tilden. Modern incarnations of Walter's turtles may be found
+   in the form of BEAM robotics.^[54]
+   U.S. Patent 2,988,237, issued in 1961 to Devol.
+
+   The first digitally operated and programmable robot was invented by
+   George Devol in 1954 and was ultimately called the Unimate. This
+   ultimately laid the foundations of the modern robotics industry.^[55]
+   Devol sold the first Unimate to General Motors in 1960, and it was
+   installed in 1961 in a plant in Trenton, New Jersey to lift hot pieces
+   of metal from a die casting machine and stack them.^[56] Devol's patent
+   for the first digitally operated programmable robotic arm represents
+   the foundation of the modern robotics industry.^[57]
+
+   The first palletizing robot was introduced in 1963 by the Fuji Yusoki
+   Kogyo Company.^[58] In 1973, a robot with six electromechanically
+   driven axes was patented^[59]^[60]^[61] by KUKA robotics in Germany,
+   and the programmable universal manipulation arm was invented by Victor
+   Scheinman in 1976, and the design was sold to Unimation.
+
+   Commercial and industrial robots are now in widespread use performing
+   jobs more cheaply or with greater accuracy and reliability than humans.
+   They are also employed for jobs which are too dirty, dangerous or dull
+   to be suitable for humans. Robots are widely used in manufacturing,
+   assembly and packing, transport, earth and space exploration, surgery,
+   weaponry, laboratory research, and mass production of consumer and
+--
+              External video
+   video icon Atlas, The Next Generation
+   Further information: Robotics
+
+   Various techniques have emerged to develop the science of robotics and
+   robots. One method is evolutionary robotics, in which a number of
+   differing robots are submitted to tests. Those which perform best are
+   used as a model to create a subsequent "generation" of robots. Another
+   method is developmental robotics, which tracks changes and development
+   within a single robot in the areas of problem-solving and other
+   functions. Another new type of robot is just recently introduced which
+   acts both as a smartphone and robot and is named RoboHon.^[63]
+
+   As robots become more advanced, eventually there may be a standard
+   computer operating system designed mainly for robots. Robot Operating
+   System is an open-source set of programs being developed at Stanford
+   University, the Massachusetts Institute of Technology and the Technical
+   University of Munich, Germany, among others. ROS provides ways to
+   program a robot's navigation and limbs regardless of the specific
+   hardware involved. It also provides high-level commands for items like
+   image recognition and even opening doors. When ROS boots up on a
+   robot's computer, it would obtain data on attributes such as the length
+   and movement of robots' limbs. It would relay this data to higher-level
+   algorithms. Microsoft is also developing a "Windows for robots" system
+   with its Robotics Developer Studio, which has been available since
+   2007.^[64]
+
+   Japan hopes to have full-scale commercialization of service robots by
+   2025. Much technological research in Japan is led by Japanese
+   government agencies, particularly the Trade Ministry.^[65]
+
+   Many future applications of robotics seem obvious to people, even
+   though they are well beyond the capabilities of robots available at the
+   time of the prediction.^[66]^[67] As early as 1982 people were
+   confident that someday robots would:^[68] 1. Clean parts by removing
+   molding flash 2. Spray paint automobiles with absolutely no human
+   presence 3. Pack things in boxes—for example, orient and nest chocolate
+--
+   with boxes—a packing problem 6. Handle soft goods, such as garments and
+   shoes 7. Shear sheep 8. prosthesis 9. Cook fast food and work in other
+   service industries 10. Household robot.
+
+   Generally such predictions are overly optimistic in timescale.
+--
+   self-driving.^[75]
+
+   A literate or 'reading robot' named Marge has intelligence that comes
+   from software. She can read newspapers, find and correct misspelled
+   words, learn about banks like Barclays, and understand that some
+   restaurants are better places to eat than others.^[76]
+
+   Baxter is a new robot introduced in 2012 which learns by guidance. A
+   worker could teach Baxter how to perform a task by moving its hands in
+   the desired motion and having Baxter memorize them. Extra dials,
+   buttons, and controls are available on Baxter's arm for more precision
+   and features. Any regular worker could program Baxter and it only takes
+   a matter of minutes, unlike usual industrial robots that take extensive
+   programs and coding to be used. This means Baxter needs no programming
+   to operate. No software engineers are needed. This also means Baxter
+--
+   added in 2015 for smaller, more precise tasks.^[77]
+
+   Prototype cooking robots have been developed and could be programmed
+   for autonomous, dynamic and adjustable preparation of discrete
+   meals.^[78]^[79]
+--
+Etymology
+
+   See also: Glossary of robotics
+   A scene from Karel Čapek's 1920 play R.U.R. (Rossum's Universal
+   Robots), showing three robots
+
+   The word robot was introduced to the public by the Czech interwar
+   writer Karel Čapek in his play R.U.R. (Rossum's Universal Robots),
+   published in 1920.^[6] The play begins in a factory that uses a
+   chemical substitute for protoplasm to manufacture living, simplified
+   people called robots. The play does not focus in detail on the
+   technology behind the creation of these living creatures, but in their
+   appearance they prefigure modern ideas of androids, creatures who can
+   be mistaken for humans. These mass-produced workers are depicted as
+   efficient but emotionless, incapable of original thinking and
+   indifferent to self-preservation. At issue is whether the robots are
+   being exploited and the consequences of human dependence upon
+   commodified labor (especially after a number of specially-formulated
+   robots achieve self-awareness and incite robots all around the world to
+   rise up against the humans).
+
+--
+   that he had originally wanted to call the creatures laboři ("workers",
+   from Latin labor). However, he did not like the word, and sought advice
+   from his brother Josef, who suggested "roboti". The word robota means
+   literally "corvée", "serf labor", and figuratively "drudgery" or "hard
+   work" in Czech and also (more general) "work", "labor" in many Slavic
+   languages (e.g.: Bulgarian, Russian, Serbian, Slovak, Polish,
+   Macedonian, Ukrainian, archaic Czech, as well as robot in Hungarian).
+   Traditionally the robota (Hungarian robot) was the work period a serf
+   (corvée) had to give for his lord, typically 6 months of the year. The
+   origin of the word is the Old Church Slavonic (Old Bulgarian) rabota
+   "servitude" ("work" in contemporary Bulgarian and Russian), which in
+   turn comes from the Proto-Indo-European root *orbh-. Robot is cognate
+   with the German root Arbeit (work).^[80]^[81]
+
+   The word robotics, used to describe this field of study,^[4] was coined
+   by the science fiction writer Isaac Asimov. Asimov created the "Three
+   Laws of Robotics" which are a recurring theme in his books. These have
+   since been used by many others to define laws used in fiction. (The
+   three laws are pure fiction, and no technology yet created has the
+   ability to understand or follow them, and in fact most robots serve
+   military purposes, which run quite contrary to the first law and often
+   the third law. "People think about Asimov's laws, but they were set up
+--
+   Bath.^[82])
+
+Modern robots
+
+   A laparoscopic robotic surgery machine
+
+Mobile robot
+
+   Main articles: Mobile robot and Automated guided vehicle
+
+   Mobile robots^[83] have the capability to move around in their
+   environment and are not fixed to one physical location. An example of a
+   mobile robot that is in common use today is the automated guided
+   vehicle or automatic guided vehicle (AGV). An AGV is a mobile robot
+   that follows markers or wires in the floor, or uses vision or
+   lasers.^[84] AGVs are discussed later in this article.
+
+   Mobile robots are also found in industry, military and security
+   environments.^[85] They also appear as consumer products, for
+   entertainment or to perform certain tasks like vacuum cleaning. Mobile
+   robots are the focus of a great deal of current research and almost
+   every major university has one or more labs that focus on mobile robot
+   research.^[86]
+
+   Mobile robots are usually used in tightly controlled environments such
+   as on assembly lines because they have difficulty responding to
+   unexpected interference. Because of this most humans rarely encounter
+   robots. However domestic robots for cleaning and maintenance are
+   increasingly common in and around homes in developed countries. Robots
+   can also be found in military applications.^[87]
+
+  Industrial robots (manipulating)
+
+   Main articles: Industrial robot and Manipulator (device)
+
+   A pick and place robot in a factory
+
+   Industrial robots usually consist of a jointed arm (multi-linked
+   manipulator) and an end effector that is attached to a fixed surface.
+   One of the most common type of end effector is a gripper assembly.
+
+   The International Organization for Standardization gives a definition
+   of a manipulating industrial robot in ISO 8373:
+
+   "an automatically controlled, reprogrammable, multipurpose, manipulator
+--
+   or mobile for use in industrial automation applications."^[88]
+
+   This definition is used by the International Federation of Robotics,
+   the European Robotics Research Network (EURON) and many national
+   standards committees.^[89]
+
+  Service robot
+
+   Main article: Service robot
+
+   Most commonly industrial robots are fixed robotic arms and manipulators
+   used primarily for production and distribution of goods. The term
+   "service robot" is less well-defined. The International Federation of
+   Robotics has proposed a tentative definition, "A service robot is a
+   robot which operates semi- or fully autonomously to perform services
+   useful to the well-being of humans and equipment, excluding
+   manufacturing operations."^[90]
+
+  Educational (interactive) robots
+
+   Main article: Educational robotics
+
+   Robots are used as educational assistants to teachers. From the 1980s,
+   robots such as turtles were used in schools and programmed using the
+   Logo language.^[91]^[92]
+
+   There are robot kits like Lego Mindstorms, BIOLOID, OLLO from ROBOTIS,
+   or BotBrain Educational Robots can help children to learn about
+   mathematics, physics, programming, and electronics. Robotics have also
+   been introduced into the lives of elementary and high school students
+   in the form of robot competitions with the company FIRST (For
+   Inspiration and Recognition of Science and Technology). The
+   organization is the foundation for the FIRST Robotics Competition,
+   FIRST Tech Challenge, FIRST Lego League Challenge and FIRST Lego League
+   Explore competitions.
+
+   There have also been robots such as the teaching computer, Leachim
+   (1974).^[93] Leachim was an early example of speech synthesis using the
+   using the Diphone synthesis method. 2-XL (1976) was a robot shaped game
+   / teaching toy based on branching between audible tracks on an 8-track
+   tape player, both invented by Michael J. Freeman.^[94] Later, the
+   8-track was upgraded to tape cassettes and then to digital.
+
+  Modular robot
+
+   Main article: Self-reconfiguring modular robot
+
+   Modular robots are a new breed of robots that are designed to increase
+   the use of robots by modularizing their architecture.^[95] The
+   functionality and effectiveness of a modular robot is easier to
+   increase compared to conventional robots. These robots are composed of
+   a single type of identical, several different identical module types,
+   or similarly shaped modules, which vary in size. Their architectural
+   structure allows hyper-redundancy for modular robots, as they can be
+   designed with more than 8 degrees of freedom (DOF). Creating the
+   programming, inverse kinematics and dynamics for modular robots is more
+   complex than with traditional robots. Modular robots may be composed of
+   L-shaped modules, cubic modules, and U and H-shaped modules. ANAT
+   technology, an early modular robotic technology patented by Robotics
+   Design Inc., allows the creation of modular robots from U and H shaped
+   modules that connect in a chain, and are used to form heterogeneous and
+   homogenous modular robot systems. These "ANAT robots" can be designed
+   with "n" DOF as each module is a complete motorized robotic system that
+   folds relatively to the modules connected before and after it in its
+   chain, and therefore a single module allows one degree of freedom. The
+--
+   increases, as payloads attached to the end of the chain place a greater
+   strain on modules that are further from the base. ANAT H-shaped modules
+   do not suffer from this problem, as their design allows a modular robot
+   to distribute pressure and impacts evenly amongst other attached
+   modules, and therefore payload-carrying capacity does not decrease as
+   the length of the arm increases. Modular robots can be manually or
+   self-reconfigured to form a different robot, that may perform different
+   applications. Because modular robots of the same architecture type are
+   composed of modules that compose different modular robots, a snake-arm
+   robot can combine with another to form a dual or quadra-arm robot, or
+   can split into several mobile robots, and mobile robots can split into
+   multiple smaller ones, or combine with others into a larger or
+   different one. This allows a single modular robot the ability to be
+   fully specialized in a single task, as well as the capacity to be
+   specialized to perform multiple different tasks.
+
+   Modular robotic technology is currently being applied in hybrid
+   transportation,^[96] industrial automation,^[97] duct cleaning^[98] and
+   handling. Many research centres and universities have also studied this
+   technology, and have developed prototypes.
+
+  Collaborative robots
+
+   A collaborative robot or cobot is a robot that can safely and
+   effectively interact with human workers while performing simple
+   industrial tasks. However, end-effectors and other environmental
+--
+   done before using any industrial motion-control application.^[99]
+
+   The collaborative robots most widely used in industries today are
+   manufactured by Universal Robots in Denmark.^[100]
+
+   Rethink Robotics—founded by Rodney Brooks, previously with
+   iRobot—introduced Baxter in September 2012; as an industrial robot
+   designed to safely interact with neighboring human workers, and be
+   programmable for performing simple tasks.^[101] Baxters stop if they
+   detect a human in the way of their robotic arms and have prominent off
+   switches. Intended for sale to small businesses, they are promoted as
+   the robotic analogue of the personal computer.^[102] As of
+   May 2014^[update], 190 companies in the US have bought Baxters and they
+   are being used commercially in the UK.^[10]
+
+Robots in society
+
+   TOPIO, a humanoid robot, played ping pong at Tokyo International Robot
+   Exhibition (IREX) 2009^[103]^[104]
+
+   Roughly half of all the robots in the world are in Asia, 32% in Europe,
+   and 16% in North America, 1% in Australasia and 1% in Africa.^[105] 40%
+   of all the robots in the world are in Japan,^[106] making Japan the
+   country with the highest number of robots.
+
+  Autonomy and ethical questions
+--
+   Main articles: Roboethics and Ethics of artificial intelligence
+
+   An android, or robot designed to resemble a human, can appear
+   comforting to some people and disturbing to others^[107]
+
+   As robots have become more advanced and sophisticated, experts and
+   academics have increasingly explored the questions of what ethics might
+   govern robots' behavior,^[108]^[109] and whether robots might be able
+   to claim any kind of social, cultural, ethical or legal rights.^[110]
+   One scientific team has said that it was possible that a robot brain
+   would exist by 2019.^[111] Others predict robot intelligence
+   breakthroughs by 2050.^[112] Recent advances have made robotic behavior
+   more sophisticated.^[113] The social impact of intelligent robots is
+   subject of a 2010 documentary film called Plug & Pray.^[114]
+
+   Vernor Vinge has suggested that a moment may come when computers and
+   robots are smarter than humans. He calls this "the Singularity".^[115]
+   He suggests that it may be somewhat or possibly very dangerous for
+   humans.^[116] This is discussed by a philosophy called
+--
+   In 2009, experts attended a conference hosted by the Association for
+   the Advancement of Artificial Intelligence (AAAI) to discuss whether
+   computers and robots might be able to acquire any autonomy, and how
+   much these abilities might pose a threat or hazard. They noted that
+   some robots have acquired various forms of semi-autonomy, including
+   being able to find power sources on their own and being able to
+   independently choose targets to attack with weapons. They also noted
+--
+   potential hazards and pitfalls.^[115] Various media sources and
+   scientific groups have noted separate trends in differing areas which
+   might together result in greater robotic functionalities and autonomy,
+   and which pose some inherent concerns.^[117]^[118]^[119]
+
+  Military robots
+
+   Some experts and academics have questioned the use of robots for
+   military combat, especially when such robots are given some degree of
+   autonomous functions.^[120] There are also concerns about technology
+   which might allow some armed robots to be controlled mainly by other
+   robots.^[121] The US Navy has funded a report which indicates that, as
+   military robots become more complex, there should be greater attention
+   to implications of their ability to make autonomous
+   decisions.^[122]^[123] One researcher states that autonomous robots
+   might be more humane, as they could make decisions more effectively.
+   However, other experts question this.^[124]
+
+   One robot in particular, the EATR, has generated public concerns^[125]
+   over its fuel source, as it can continually refuel itself using organic
+   substances.^[126] Although the engine for the EATR is designed to run
+--
+
+   Manuel De Landa has noted that "smart missiles" and autonomous bombs
+   equipped with artificial perception can be considered robots, as they
+   make some of their decisions autonomously. He believes this represents
+   an important and dangerous trend in which humans are handing over
+--
+   A recent example of human replacement involves Taiwanese technology
+   company Foxconn who, in July 2011, announced a three-year plan to
+   replace workers with more robots. At present the company uses ten
+   thousand robots but will increase them to a million robots over a
+   three-year period.^[133]
+
+   Lawyers have speculated that an increased prevalence of robots in the
+   workplace could lead to the need to improve redundancy laws.^[134]
+
+   Kevin J. Delaney said "Robots are taking human jobs. But Bill Gates
+   believes that governments should tax companies’ use of them, as a way
+   to at least temporarily slow the spread of automation and to fund other
+   types of employment."^[135] The robot tax would also help pay a
+   guaranteed living wage to the displaced workers.
+
+--
+Contemporary uses
+
+   A general-purpose robot acts as a guide during the day and a security
+   guard at night.
+
+   See also: List of robots
+
+   At present, there are two main types of robots, based on their use:
+   general-purpose autonomous robots and dedicated robots.
+
+   Robots can be classified by their specificity of purpose. A robot might
+   be designed to perform one particular task extremely well, or a range
+   of tasks less well. All robots by their nature can be re-programmed to
+   behave differently, but some are limited by their physical form. For
+   example, a factory robot arm can perform jobs such as cutting, welding,
+   gluing, or acting as a fairground ride, while a pick-and-place robot
+   can only populate printed circuit boards.
+
+  General-purpose autonomous robots
+
+   Main article: Autonomous robot
+
+   General-purpose autonomous robots can perform a variety of functions
+   independently. General-purpose autonomous robots typically can navigate
+   independently in known spaces, handle their own re-charging needs,
+   interface with electronic doors and elevators and perform other basic
+   tasks. Like computers, general-purpose robots can link with networks,
+   software and accessories that increase their usefulness. They may
+   recognize people or objects, talk, provide companionship, monitor
+   environmental quality, respond to alarms, pick up supplies and perform
+   other useful tasks. General-purpose robots may perform a variety of
+   functions simultaneously or they may take on different roles at
+   different times of day. Some such robots try to mimic human beings and
+   may even resemble people in appearance; this type of robot is called a
+   humanoid robot. Humanoid robots are still in a very limited stage, as
+   no humanoid robot can, as of yet, actually navigate around a room that
+   it has never been in.^[citation needed] Thus, humanoid robots are
+   really quite limited, despite their intelligent behaviors in their
+   well-known environments.
+
+  Factory robots
+
+    Car production
+
+   Over the last three decades, automobile factories have become dominated
+   by robots. A typical factory contains hundreds of industrial robots
+   working on fully automated production lines, with one robot for every
+   ten human workers. On an automated production line, a vehicle chassis
+   on a conveyor is welded, glued, painted and finally assembled at a
+   sequence of robot stations.
+
+    Packaging
+
+   Industrial robots are also used extensively for palletizing and
+   packaging of manufactured goods, for example for rapidly taking drink
+   cartons from the end of a conveyor belt and placing them into boxes, or
+--
+
+   Mass-produced printed circuit boards (PCBs) are almost exclusively
+   manufactured by pick-and-place robots, typically with SCARA
+   manipulators, which remove tiny electronic components from strips or
+   trays, and place them on to PCBs with great accuracy.^[137] Such robots
+   can place hundreds of thousands of components per hour, far
+   out-performing a human in speed, accuracy, and reliability.^[138]
+--
+   the workspace.
+
+   Mobile robots, following markers or wires in the floor, or using
+   vision^[84] or lasers, are used to transport goods around large
+   facilities, such as warehouses, container ports, or hospitals.^[139]
+
+      Early AGV-style robots
+
+   Limited to tasks that could be accurately defined and had to be
+   performed the same way every time. Very little feedback or intelligence
+   was required, and the robots needed only the most basic exteroceptors
+   (sensors). The limitations of these AGVs are that their paths are not
+   easily altered and they cannot alter their paths if obstacles block
+--
+   See also: Dirty, dangerous and demeaning
+
+   There are many jobs that humans would rather leave to robots. The job
+   may be boring, such as domestic cleaning or sports field line marking,
+   or dangerous, such as exploring inside a volcano.^[146] Other jobs are
+--
+
+   Almost every unmanned space probe ever launched was a
+   robot.^[149]^[150] Some were launched in the 1960s with very limited
+   abilities, but their ability to fly and land (in the case of Luna 9) is
+   an indication of their status as a robot. This includes the Voyager
+   probes and the Galileo probes, among others.
+
+    Telerobots
+
+   A U.S. Marine Corps technician prepares to use a telerobot to detonate
+   a buried improvised explosive device near Camp Fallujah, Iraq.
+
+   Teleoperated robots, or telerobots, are devices remotely operated from
+   a distance by a human operator rather than following a predetermined
+   sequence of movements, but which has semi-autonomous behaviour. They
+   are used when a human cannot be present on site to perform a job
+   because it is dangerous, far away, or inaccessible. The robot may be in
+   another room or another country, or may be on a very different scale to
+   the operator. For instance, a laparoscopic surgery robot allows the
+   surgeon to work inside a human patient on a relatively small scale
+   compared to open surgery, significantly shortening recovery time.^[148]
+   They can also be used to avoid exposing workers to the hazardous and
+   tight spaces such as in duct cleaning. When disabling a bomb, the
+   operator sends a small robot to disable it. Several authors have been
+   using a device called the Longpen to sign books remotely.^[151]
+   Teleoperated robot aircraft, like the Predator Unmanned Aerial Vehicle,
+   are increasingly being used by the military. These pilotless drones can
+   search terrain and fire on targets.^[152]^[153] Hundreds of robots such
+   as iRobot's Packbot and the Foster-Miller TALON are being used in Iraq
+   and Afghanistan by the U.S. military to defuse roadside bombs or
+   improvised explosive devices (IEDs) in an activity known as explosive
+--
+    Automated fruit harvesting machines
+
+   Robots are used to automate picking fruit on orchards at a cost lower
+   than that of human pickers.
+
+    Domestic robots
+
+   The Roomba domestic vacuum cleaner robot does a single, menial job
+
+   Domestic robots are simple robots dedicated to a single task work in
+   home use. They are used in simple but often disliked jobs, such as
+   vacuum cleaning, floor washing, and lawn mowing. An example of a
+   domestic robot is a Roomba.
+
+  Military robots
+
+   Main article: Military robot
+
+   Military robots include the SWORDS robot which is currently used in
+   ground-based combat. It can use a variety of weapons and there is some
+   discussion of giving it some degree of autonomy in battleground
+--
+   advances which are already occurring with AI should also include an
+   effort to make AI intrinsically friendly and humane.^[162] Several such
+   measures reportedly already exist, with robot-heavy countries such as
+   Japan and South Korea^[163] having begun to pass regulations requiring
+   robots to be equipped with safety systems, and possibly sets of 'laws'
+   akin to Asimov's Three Laws of Robotics.^[164]^[165] An official report
+   was issued in 2009 by the Japanese government's Robot Industry Policy
+   Committee.^[166] Chinese officials and researchers have issued a report
+   suggesting a set of ethical rules, and a set of new legal guidelines
+   referred to as "Robot Legal Studies."^[167] Some concern has been
+   expressed over a possible occurrence of robots telling apparent
+   falsehoods.^[168]
+
+  Mining robots
+
+   Mining robots are designed to solve a number of problems currently
+   facing the mining industry, including skills shortages, improving
+   productivity from declining ore grades, and achieving environmental
+   targets. Due to the hazardous nature of mining, in particular
+   underground mining, the prevalence of autonomous, semi-autonomous, and
+   tele-operated robots has greatly increased in recent times. A number of
+   vehicle manufacturers provide autonomous trains, trucks and loaders
+   that will load material, transport it on the mine site to its
+--
+
+   Drilling, longwall and rockbreaking machines are now also available as
+   autonomous robots.^[171] The Atlas Copco Rig Control System can
+   autonomously execute a drilling plan on a drilling rig, moving the rig
+   into position using GPS, set up the drill rig and drill down to
+--
+  Healthcare
+
+   Robots in healthcare have two main functions. Those which assist an
+   individual, such as a sufferer of a disease like Multiple Sclerosis,
+   and those which aid in the overall systems such as pharmacies and
+--
+    Home automation for the elderly and disabled
+
+   Further information: Disability robot
+
+   The Care-Providing Robot FRIEND
+
+   Robots used in home automation have developed over time from simple
+   basic robotic assistants, such as the Handy 1,^[174] through to
+   semi-autonomous robots, such as FRIEND which can assist the elderly and
+   disabled with common tasks.
+
+--
+   that there are increasing numbers of elderly people to care for, but
+   relatively fewer young people to care for them.^[175]^[176] Humans make
+   the best carers, but where they are unavailable, robots are gradually
+   being introduced.^[177]
+
+   FRIEND is a semi-autonomous robot designed to support disabled and
+   elderly people in their daily life activities, like preparing and
+   serving a meal. FRIEND make it possible for patients who are
+--
+   to remove this template message)
+
+   Script Pro manufactures a robot designed to help pharmacies fill
+   prescriptions that consist of oral solids or medications in pill
+   form.^[178]^[better source needed] The pharmacist or pharmacy
+   technician enters the prescription information into its information
+   system. The system, upon determining whether or not the drug is in the
+   robot, will send the information to the robot for filling. The robot
+   has 3 different size vials to fill determined by the size of the pill.
+   The robot technician, user, or pharmacist determines the needed size of
+   the vial based on the tablet when the robot is stocked. Once the vial
+   is filled it is brought up to a conveyor belt that delivers it to a
+   holder that spins the vial and attaches the patient label. Afterwards
+--
+   and sends it out front to be picked up.
+
+   McKesson's Robot RX is another healthcare robotics product that helps
+   pharmacies dispense thousands of medications daily with little or no
+   errors.^[179] The robot can be ten feet wide and thirty feet long and
+   can hold hundreds of different kinds of medications and thousands of
+   doses. The pharmacy saves many resources like staff members that are
+--
+   it's pulling the correct drug. It then delivers the drug to a patient
+   specific bin on a conveyor belt. Once the bin is filled with all of the
+   drugs that a particular patient needs and that the robot stocks, the
+   bin is then released and returned out on the conveyor belt to a
+   technician waiting to load it into a cart for delivery to the floor.
+
+  Research robots
+
+   See also: Robotics research
+
+   While most robots today are installed in factories or homes, performing
+   labour or life saving jobs, many new types of robot are being developed
+   in laboratories around the world. Much of the research in robotics
+   focuses not on specific industrial tasks, but on investigations into
+   new types of robot, alternative ways to think about or design robots,
+   and new ways to manufacture them. It is expected that these new types
+   of robot will be able to solve real world problems when they are
+   finally realized.^[citation needed]
+
+    Bionic and biomimetic robots
+
+   Further information: Biomimetics
+--
+   Further information: Bionics
+
+   One approach to designing robots is to base them on animals.
+   BionicKangaroo was designed and engineered by studying and applying the
+   physiology and methods of locomotion of a kangaroo.
+
+    Nanorobots
+
+   Further information: Nanorobotics
+
+   Nanorobotics is the emerging technology field of creating machines or
+   robots whose components are at or close to the microscopic scale of a
+   nanometer (10^−9 meters). Also known as "nanobots" or "nanites", they
+   would be constructed from molecular machines. So far, researchers have
+   mostly produced only parts of these complex systems, such as bearings,
+   sensors, and synthetic molecular motors, but functioning robots have
+   also been made such as the entrants to the Nanobot Robocup
+   contest.^[180] Researchers also hope to be able to create entire robots
+   as small as viruses or bacteria, which could perform tasks on a tiny
+   scale. Possible applications include micro surgery (on the level of
+--
+   others argue that this hypothetical outcome is nonsense.^[183]^[184]
+
+    Reconfigurable robots
+
+   Main article: Self-reconfiguring modular robot
+
+   A few researchers have investigated the possibility of creating robots
+   which can alter their physical form to suit a particular task,^[185]
+   like the fictional T-1000. Real robots are nowhere near that
+   sophisticated however, and mostly consist of a small number of cube
+   shaped units, which can move relative to their neighbours. Algorithms
+   have been designed in case any such robots become a reality.^[186]
+
+    Robotic, mobile laboratory operators
+
+   Further information: Laboratory robotics
+
+   In July 2020 scientists reported the development of a mobile robot
+   chemist and demonstrate that it can assist in experimental searches.
+   According to the scientists their strategy was automating the
+--
+   researchers to think creatively – and could identify photocatalyst
+   mixtures for hydrogen production from water that were six times more
+   active than initial formulations. The modular robot can operate
+   laboratory instruments, work nearly around the clock, and autonomously
+   make decisions on his next actions depending on experimental
+   results.^[187]^[188]
+
+    Soft-bodied robots
+
+   Robots with silicone bodies and flexible actuators (air muscles,
+   electroactive polymers, and ferrofluids) look and feel different from
+   robots with rigid skeletons, and can have different behaviors.^[189]
+   Soft, flexible (and sometimes even squishy) robots are often designed
+   to mimic the biomechanics of animals and other things found in nature,
+   which is leading to new applications in medicine, care giving, search
+--
+   exploration.^[190]^[191]
+
+    Swarm robots
+
+   Main article: Swarm robotics
+
+   Inspired by colonies of insects such as ants and bees, researchers are
+   modeling the behavior of swarms of thousands of tiny robots which
+   together perform a useful task, such as finding something hidden,
+   cleaning, or spying. Each robot is quite simple, but the emergent
+   behavior of the swarm is more complex. The whole set of robots can be
+   considered as one single distributed system, in the same way an ant
+   colony can be considered a superorganism, exhibiting swarm
+   intelligence. The largest swarms so far created include the iRobot
+   swarm, the SRI/MobileRobots CentiBots project^[192] and the Open-source
+   Micro-robotic Project swarm, which are being used to research
+   collective behaviors.^[193]^[194] Swarms are also more resistant to
+   failure. Whereas one large robot may fail and ruin a mission, a swarm
+   can continue even if several robots fail. This could make them
+   attractive for space exploration missions, where failure is normally
+   extremely costly.^[195]
+
+    Haptic interface robots
+
+   Further information: Haptic technology
+
+   Robotics also has application in the design of virtual reality
+   interfaces. Specialized robots are in widespread use in the haptic
+   research community. These robots, called "haptic interfaces", allow
+   touch-enabled user interaction with real and virtual environments.
+   Robotic forces allow simulating the mechanical properties of "virtual"
+   objects, which users can experience through their sense of touch.^[196]
+
+  Contemporary art and sculpture
+
+   Further information: Robotic art
+
+   Robots are used by contemporary artists to create works that include
+   mechanical automation. There are many branches of robotic art, one of
+   which is robotic installation art, a type of installation art that is
+   programmed to respond to viewer interactions, by means of computers,
+   sensors and actuators. The future behavior of such installations can
+--
+   kinetic art.
+
+   Le Grand Palais in Paris organized an exhibition "Artists & Robots",
+   featuring artworks created by more than forty artists with the help of
+   robots in 2018.^[197]
+
+Robots in popular culture
+
+   Toy robots on display at the Museo del Objeto del Objeto in Mexico
+   City.
+
+   See also: List of fictional robots and androids and Droid (Star Wars)
+
+  Literature
+
+   Main article: Robots in literature
+
+   Robotic characters, androids (artificial men/women) or gynoids
+   (artificial women), and cyborgs (also "bionic men/women", or humans
+   with significant mechanical enhancements) have become a staple of
+--
+   The first reference in Western literature to mechanical servants
+   appears in Homer's Iliad. In Book XVIII, Hephaestus, god of fire,
+   creates new armor for the hero Achilles, assisted by robots.^[198]
+   According to the Rieu translation, "Golden maidservants hastened to
+   help their master. They looked like real women and could not only speak
+   and use their limbs but were endowed with intelligence and trained in
+   handwork by the immortal gods." The words "robot" or "android" are not
+   used to describe them, but they are nevertheless mechanical devices
+   human in appearance. "The first use of the word Robot was in Karel
+   Čapek's play R.U.R. (Rossum's Universal Robots) (written in 1920)".
+   Writer Karel Čapek was born in Czechoslovakia (Czech Republic).
+
+--
+   Asimov (1920–1992)^[199] who published over five-hundred books.^[200]
+   Asimov is probably best remembered for his science-fiction stories and
+   especially those about robots, where he placed robots and their
+   interaction with society at the center of many of his
+   works.^[201]^[202] Asimov carefully considered the problem of the ideal
+   set of instructions robots might be given to lower the risk to humans,
+   and arrived at his Three Laws of Robotics: a robot may not injure a
+   human being or, through inaction, allow a human being to come to harm;
+   a robot must obey orders given it by human beings, except where such
+   orders would conflict with the First Law; and a robot must protect its
+   own existence as long as such protection does not conflict with the
+   First or Second Law.^[203] These were introduced in his 1942 short
+   story "Runaround", although foreshadowed in a few earlier stories.
+   Later, Asimov added the Zeroth Law: "A robot may not harm humanity, or,
+   by inaction, allow humanity to come to harm"; the rest of the laws are
+   modified sequentially to acknowledge this.
+--
+   According to the Oxford English Dictionary, the first passage in
+   Asimov's short story "Liar!" (1941) that mentions the First Law is the
+   earliest recorded use of the word robotics. Asimov was not initially
+   aware of this; he assumed the word already existed by analogy with
+   mechanics, hydraulics, and other similar terms denoting branches of
+--
+  Films
+
+   See also: Category:Robot films
+
+   Robots appear in many films. Most of the robots in cinema are
+   fictional. Two of the most famous are R2-D2 and C-3PO from the Star
+   Wars franchise.
+
+  Sex robots
+
+   Main article: Sex robot
+
+   The concept of humanoid sex robots has drawn public attention and
+   elicited debate regarding their supposed benefits and potential effects
+   on society. Opponents argue that the introduction of such devices would
+--
+
+   Italian movie The Mechanical Man (1921), the first film to have shown a
+   battle between robots.
+
+   Fears and concerns about robots have been repeatedly expressed in a
+   wide range of books and films. A common theme is the development of a
+   master race of conscious and highly intelligent robots, motivated to
+   take over or destroy the human race. Frankenstein (1818), often called
+   the first science fiction novel, has become synonymous with the theme
+   of a robot or android advancing beyond its creator.
+
+   Other works with similar themes include The Mechanical Man, The
+   Terminator, Runaway, RoboCop, the Replicators in Stargate, the Cylons
+   in Battlestar Galactica, the Cybermen and Daleks in Doctor Who, The
+   Matrix, Enthiran and I, Robot. Some fictional robots are programmed to
+   kill and destroy; others gain superhuman intelligence and abilities by
+   upgrading their own software and hardware. Examples of popular media
+   where the robot becomes evil are 2001: A Space Odyssey, Red Planet and
+   Enthiran.
+
+   The 2017 game Horizon Zero Dawn explores themes of robotics in warfare,
+   robot ethics, and the AI control problem, as well as the positive or
+   negative impact such technologies could have on the environment.
+
+   Another common theme is the reaction, sometimes called the "uncanny
+   valley", of unease and even revulsion at the sight of robots that mimic
+   humans too closely.^[107]
+
+   More recently, fictional representations of artificially intelligent
+   robots in films such as A.I. Artificial Intelligence and Ex Machina and
+   the 2016 TV adaptation of Westworld have engaged audience sympathy for
+   the robots themselves.
+
+See also
+
+     * Index of robotics articles
+     * Outline of robotics
+     * Artificial intelligence
+     * William Grey Walter
+
+Specific robotics concepts
+
+     * Robot locomotion
+     * Simultaneous localization and mapping
+     * Tactile sensor
+--
+     * Uncanny valley
+     * von Neumann machine
+     * Wake-up robot problem
+     * Neuromorphic engineering
+
+Robotics methods and categories
+
+     * Cognitive robotics
+     * Companion robot
+     * Domestic robot
+     * Epigenetic robotics
+     * Evolutionary robotics
+     * Humanoid robot
+     * Autonomous robot
+     * Microbotics
+     * Robot control
+
+Specific robots and devices
+
+     * AIBO
+     * Autonomous spaceport drone ship
+     * Driverless car
+     * Friendly Robotics
+     * Lely Juno family
+     * Liquid handling robot
+     * Paro (robot)
+     * PatrolBot
+     * RoboBee
+     * Roborior
+     * Robot App Store
+
+Other related articles
+--
+
+     * Al-Arshani, Sarah (29 November 2021). "Researchers behind the
+       world's first living robot have found a way to make it reproduce —
+       by shaping it like Pac-Man". Business Insider.
+     * See this humanoid robot artist sketch drawings from sight (CNN,
+       Video, 2019)
+     * Margolius, Ivan. 'The Robot of Prague', Newsletter, The Friends of
+       Czech Heritage no. 17, Autumn 2017, pp. 3 – 6.
+       https://czechfriends.net/images/RobotsMargoliusJul2017.pdf
+     * Glaser, Horst Albert and Rossbach, Sabine: The Artificial Human,
+       Frankfurt/M., Bern, New York 2011 "A Tragical History"
+     * Gutkind, L. (2006). Almost Human: Making Robots Think. New York: W.
+       W. Norton & Company, Inc.
+     * Craig, J.J. (2005). Introduction to Robotics, Pearson Prentice
+       Hall. Upper Saddle River, NJ.
+     * Tsai, L. W. (1999). Robot Analysis. Wiley. New York.
+     * Sotheby's New York. The Tin Toy Robot Collection of Matt Wyse
+       (1996)
+     * DeLanda, Manuel. War in the Age of Intelligent Machines. 1991.
+--
+
+     TechCast Article Series, Jason Rupinski and Richard Mix, "Public
+   Attitudes to Androids: Robot Gender, Tasks, & Pricing"
+
+References
+
+    1. ^ "Four-legged Robot, 'Cheetah,' Sets New Speed Record". Reuters. 6
+       March 2012. Archived from the original on 22 October 2013.
+       Retrieved 5 October 2013.
+    2. ^ Definition of 'robot'. Oxford English Dictionary. Retrieved 27
+       November 2016.
+    3. ^ "Forecasts – Driverless car market watch". driverless-future.com.
+       Archived from the original on 19 April 2017. Retrieved 18 April
+       2017.
+    4. ^ ^a ^b "robotics". Oxford Dictionaries. Archived from the original
+       on 18 May 2011. Retrieved 4 February 2011.
+    5. ^ Margolius, Ivan (Autumn 2017). "The Robot of Prague" (PDF). The
+       Friends of Czech Heritage (17): 3–6. Archived (PDF) from the
+       original on 11 September 2017.
+    6. ^ ^a ^b ^c ^d Zunt, Dominik. "Who did actually invent the word
+       "robot" and what does it mean?". The Karel Čapek website. Archived
+       from the original on 4 February 2012. Retrieved 11 September 2007.
+    7. ^ ^a ^b Kurfess, Thomas R. (1 January 2005). Robotics and
+       Automation Handbook. Taylor & Francis. ISBN 9780849318047. Archived
+       from the original on 4 December 2016. Retrieved 5 July 2016 – via
+       Google Books.
+    8. ^ Pearce, Jeremy (15 August 2011). "George C. Devol, Inventor of
+       Robot Arm, Dies at 99". The New York Times. Archived from the
+       original on 25 December 2016. Retrieved 7 February 2012. "In 1961,
+       General Motors put the first Unimate arm on an assembly line at the
+--
+       device was used to lift and stack die-cast metal parts taken hot
+       from their molds."
+    9. ^ Akins, Crystal. "5 jobs being replaced by robots". Excelle.
+       Monster. Archived from the original on 24 April 2013. Retrieved 15
+       April 2013.
+   10. ^ ^a ^b Hoy, Greg (28 May 2014). "Robots could cost Australian
+       economy 5 million jobs, experts warn, as companies look to cut
+       costs". ABC News. Australian Broadcasting Corporation. Archived
+--
+       Solutions. 28 February 2001. Archived from the original on 2
+       February 2007. Retrieved 5 September 2007.
+   12. ^ Polk, Igor (16 November 2005). "RoboNexus 2005 robot exhibition
+       virtual tour". Robonexus Exhibition 2005. Archived from the
+       original on 12 August 2007. Retrieved 10 September 2007.
+   13. ^ Harris, Tom (16 April 2002). "How Robots Work". How Stuff Works.
+       Archived from the original on 26 August 2007. Retrieved 10
+       September 2007.
+--
+       China: Volume 2, History of Scientific Thought. Cambridge
+       University Press. ISBN 978-0-521-05800-1.
+   15. ^ Currie, Adam (1999). "The History of Robotics". Archived from the
+       original on 18 July 2006. Retrieved 10 September 2007.
+   16. ^ Noct. Att. L. 10
+--
+       ISBN 978-0-19-925616-7. Archived from the original on 5 December
+       2016. Retrieved 25 September 2016.
+   19. ^ ^a ^b ^c Rosheim, Mark E. (1994). Robot evolution: the
+       development of anthrobotics. Wiley-IEEE. ISBN 0-471-02622-0.
+   20. ^ ""Robots then and now". BBC. 22 July 2004. Archived from the
+       original on 20 December 2010.
+   21. ^ O'Connor, J.J. and E.F. Robertson. "Heron biography". The
+--
+   24. ^ "Early Clocks". A Walk Through Time. NIST Physics Laboratory. 12
+       August 2009. Retrieved 13 October 2022.
+   25. ^ ^a ^b "The programmable robot of ancient Greece". New Scientist:
+       32–35. 6 July 2007.
+   26. ^ Varadpande, Manohar Laxman (1987). History of Indian Theatre,
+--
+   original on 11 December 2021. Retrieved 15 June 2019.
+
+     ^ Moran, M. E. (December 2006). "The da Vinci robot". J. Endourol. 20
+   (12): 986–90. doi:10.1089/end.2006.20.986. PMID 17206888. "... the date
+   of the design and possible construction of this robot was 1495 ...
+   Beginning in the 1950s, investigators at the University of California
+   began to ponder the significance of some of da Vinci's markings on what
+   appeared to be technical drawings ... It is now known that da Vinci's
+   robot would have had the outer appearance of a Germanic knight."
+
+     ^ "Leonardo da Vinci's Robots". Leonardo3.net. Archived from the
+   original on 24 September 2008. Retrieved 25 September 2008.
+
+--
+   original on 20 December 2016.
+
+     ^ "The Boy Robot of 1774". 21 February 2018.
+
+     ^ Edwyn Gray, Nineteenth-century torpedoes and their inventors, page
+--
+   2015, pages 91-95
+
+     ^ "Merriam-Webster Dictionary: robot". Archived from the original on
+   7 March 2017. Retrieved 6 March 2017. "Origin: Czech, from robota,
+   compulsory labor"
+
+     ^ "Science Diction: The Origin Of The Word 'Robot'". NPR.org.
+   Archived from the original on 17 April 2018. Retrieved 5 April 2018.
+
+--
+   Indianapolis Monthly. 1 October 2018. Retrieved 20 November 2019.
+
+     ^ "You Are Pronouncing the Word "Robot" Wrong". Daily Kos. Retrieved
+   20 November 2019.
+
+     ^ "AH Reffell & Eric Robot (1928)". Archived from the original on 11
+   November 2013. Retrieved 11 November 2013.
+
+     ^ "Meet Mr. Robot – Not Forgetting His Master". The Age. 20 September
+   1935. Archived from the original on 7 March 2017. Retrieved 7 March
+   2017.
+
+     ^ "Robot Dreams : The Strange Tale Of A Man's Quest To Rebuild His
+   Mechanical Childhood Friend". The Cleveland Free Times. Archived from
+   the original on 15 January 2010. Retrieved 25 September 2008.
+
+     ^ Schaut, Scott (2006). Robots of Westinghouse: 1924-Today. Mansfield
+   Memorial Museum. ISBN 978-0-9785844-1-2.
+
+--
+   from the original on 9 November 2011. Retrieved 25 September 2008.
+
+     ^ "Robot Hall of Fame – Unimate". Carnegie Mellon University.
+   Archived from the original on 26 September 2011. Retrieved 28 August
+   2008.
+--
+   on 4 February 2013. Retrieved 12 September 2008.
+
+     ^ "KUKA Industrial Robot FAMULUS". Archived from the original on 10
+   June 2013. Retrieved 10 January 2008.
+
+     ^ "History of Industrial Robots" (PDF). Archived from the original
+   (PDF) on 24 December 2012. Retrieved 27 October 2012.
+
+     ^ "History of Industrial Robots". robots.com. Archived from the
+   original on 8 July 2015. Retrieved 24 August 2015.
+
+     ^ "About us". Archived from the original on 9 January 2014.
+
+     ^ "RoboHon: Cute little Robot cum Smartphone | Codexify". Archived
+   from the original on 7 October 2015. Retrieved 6 October 2015.
+
+     ^ Tesfaye, Mehret (13 August 2009). "Robots to get their own
+   operating system". Ethiopian Review. Archived from the original on 18
+   September 2019.
+
+     ^ Myoken, Yumiko (January 2009). Research and Development for
+   Next-generation Service Robots in Japan (United Kingdom Foreign
+   Ministry report). Science and Innovation Section, British Embassy,
+   Tokyo, Japan. Archived from the original on 23 July 2012.
+
+     ^ Dahiya, Ravinder S.; Valle, Maurizio (30 July 2012). Robotic
+   Tactile Sensing – Technologies and System. Springer.com.
+   doi:10.1007/978-94-007-0579-1. ISBN 9789400705784. Archived from the
+--
+
+     ^ Dahiya, Ravinder S.; Metta, Giorgio; Cannata, Giorgio; Valle,
+   Maurizio (2011). "Guest Editorial Special Issue on Robotic Sense of
+   Touch". IEEE Transactions on Robotics. 27 (3): 385–388.
+   doi:10.1109/TRO.2011.2155830. S2CID 18608163.
+
+     ^ "Robotics in practice: Future capabilities" by Joseph F.
+   Engelberger. in "Electronic Servicing & Technology" magazine 1982
+   August.
+--
+   March 2017.
+
+     ^ "Robot can read, learn like a human". NBC News. 6 December 2010.
+   Retrieved 10 December 2010.
+
+     ^ Melik, James (3 January 2013). "Robots: Brave New World moves a
+   step closer". Business Daily. BBC World Service. Archived from the
+   original on 14 January 2019.
+
+     ^ "Kitchen robot in Riga cooks up new future for fast food".
+   techxplore.com. Retrieved 14 August 2021.
+
+--
+   December 2013. Retrieved 10 June 2012.
+
+     ^ Ranger, Steve (20 December 2013). "Robots of death, robots of love:
+   The reality of android soldiers and why laws for robots are doomed to
+   failure". TechRepublic. Archived from the original on 27 January 2017.
+   Retrieved 21 January 2017.
+
+     ^ Moubarak, Paul M.; Ben-Tzvi, Pinhas (2011). "Adaptive manipulation
+   of a Hybrid Mechanism Mobile Robot". 2011 IEEE International Symposium
+   on Robotic and Sensors Environments (ROSE). pp. 113–118.
+   doi:10.1109/ROSE.2011.6058520. ISBN 978-1-4577-0819-0. S2CID 8659998.
+
+--
+   ISBN 9783319559896.
+
+     ^ Kagan, E.; Shvalb, N.; Gal, I. (2019). Autonomous Mobile Robots and
+   Multi‐Robot Systems: Motion‐Planning, Communication, and Swarming. John
+   Wiley and Sons. ISBN 9781119212867.PP 65-69.
+
+     ^ Patic, Deepack; Ansari, Munsaf; Tendulkar, Dilisha; Bhatlekar,
+   Ritesh; Naik, Vijaykumar; Shailendra, Pawar (2020). "A Survey On
+   Autonomous Military Service Robot". 2020 International Conference on
+   Emerging Trends in Information Technology and Engineering (Ic-ETITE).
+   IEEE International Conference on Emerging Trends in Information
+--
+   ISBN 978-1-7281-4142-8. S2CID 216588335.
+
+     ^ "Definition of a robot" (PDF). Dansk Robot Forening. Archived from
+   the original (PDF) on 28 June 2007. Retrieved 10 September 2007.
+
+     ^ "Robotics-related Standards Sites". European Robotics Research
+   Network. Archived from the original on 17 June 2006. Retrieved 15 July
+   2008.
+
+     ^ "Service Robots". International Federation of Robotics. 27 October
+   2012. Archived from the original on 18 February 2010.
+
+--
+   High Priest of School Computer Movement". Gainesville Sun.
+
+     ^ Barnard, Jeff (January 29, 1985). "Robots In School: Games Or
+   Learning?". Observer-Reporter. Washington. Archived from the original
+   on September 22, 2015. Retrieved March 7, 2012.
+--
+   from the original on 28 May 2019. Retrieved 29 May 2019.
+
+     ^ P. Moubarak, et al., Modular and Reconfigurable Mobile Robotics,
+   Journal of Robotics and Autonomous Systems, 60 (12) (2012) 1648–1663.
+
+     ^ Rédaction (25 December 2011). "Le consortium franco-québécois Mix
+--
+   2012.
+
+     ^ Scanlan, Steve, Robotics Design Inc., Montreal. "Modularity in
+   robotics provides automation for all". Digital.ept.ca. Archived from
+   the original on 5 July 2012. Retrieved 7 September 2012.
+
+     ^ Plumbing and HVAC, Magazine (April 2010). "Duct cleaning robots"
+   (PDF). roboticsdesign.qc.ca. plumbingandhvac.ca. Archived (PDF) from
+   the original on 25 April 2013. Retrieved 29 April 2010.
+
+     ^ "Universal Robots collaborate outside enclosures | Control
+   Engineering". Controleng.com. February 2013. Archived from the original
+   on 18 May 2013. Retrieved 4 June 2013.
+
+     ^ Pittman, Kagan (19 May 2016). "INFOGRAPHIC: A Brief History of
+   Collaborative Robots". Engineering.com. Archived from the original on
+   10 June 2016.
+
+     ^ Hagerty, James (18 September 2012). "Baxter Robot Heads to Work'".
+   The Wall Street Journal. New York. Archived from the original on 10
+   April 2015. Retrieved 29 May 2014.
+
+     ^ Markoff, John (18 September 2012). "A Robot With a Reassuring
+   Touch". The New York Times. Archived from the original on 19 September
+   2012. Retrieved 18 September 2012.
+--
+   the original on 29 March 2011. Retrieved 18 December 2010.
+
+     ^ "Best robot 2009". gadgetrivia.com. Archived from the original on
+   11 May 2012.
+
+     ^ "Robots Today and Tomorrow: IFR Presents the 2007 World Robotics
+   Statistics Survey". RobotWorx. 29 October 2007. Archived from the
+   original on 5 February 2008. Retrieved 14 December 2007.
+
+     ^ "Japan's robots slug it out to be world champ". Reuters. 2 December
+   2007. Archived from the original on 13 December 2007. Retrieved 1
+   January 2007.
+--
+     ^ ^a ^b Ho, C. C.; MacDorman, K. F.; Pramono, Z. A. D. (2008). "Human
+   emotion and the uncanny valley: A GLM, MDS, and ISOMAP analysis of
+   robot video ratings" (PDF). 2008 3rd ACM/IEEE International Conference
+   on Human-Robot Interaction (HRI). Archived (PDF) from the original on
+   11 September 2008. Retrieved 24 September 2008.
+
+--
+   Artificial Intelligence. Archived from the original on 5 August 2011.
+
+     ^ "Robots can be racist and sexist, new study warns". TRT World.
+   Retrieved 27 June 2022.
+
+--
+   Brain in 10 Years". Archived from the original on 29 November 2009.
+
+     ^ Moravec, Hans (1999). Robot: Mere Machine to Transcendent Mind.
+   ISBN 978-0-19-513630-2. Archived from the original on 5 December 2016.
+
+     ^ Weigand, Matthew (17 August 2009). "Robots Almost Conquering
+   Walking, Reading, Dancing". Korea IT times. Archived from the original
+   on 21 July 2011.
+--
+   2007.
+
+     ^ Singer, P. W. (21 May 2009). "Gaming the Robot Revolution: A
+   military technology expert weighs in on Terminator: Salvation". Slate.
+   Archived from the original on 27 January 2010.
+
+     ^ "Robot takeover". gyre.org. Archived from the original on 19 April
+   2012.
+
+     ^ "Robotapocalypse". Engadget. Archived from the original on 4 May
+   2018.
+
+     ^ Palmer, Jason (3 August 2009). "Call for debate on killer robots".
+   BBC News. Archived from the original on 7 August 2009.
+
+     ^ Axe, David (13 August 2009). "Robot three-way portends autonomous
+   future". Wired. Archived from the original on 7 November 2012.
+
+     ^ Mick, Jason (17 February 2009). "New Navy-funded Report Warns of
+   War Robots Going "Terminator"". DailyTech. Archived from the original
+   on 28 July 2009.
+
+     ^ Flatley, Joseph L. (18 February 2009). "Navy report warns of robot
+   uprising, suggests a strong moral compass". Engadget. Archived from the
+   original on 4 June 2011.
+
+     ^ Lamb, Gregory M. (17 February 2010). "New role for robot warriors".
+   The Christian Science Monitor. Archived from the original on 24
+   September 2015.
+
+     ^ "Biomass-Eating Military Robot Is a Vegetarian, Company Says". Fox
+   News. 16 July 2009. Archived from the original on 3 August 2009.
+   Retrieved 31 July 2009.
+
+     ^ Shachtman, Noah (17 July 2009). "Danger Room What's Next in
+   National Security Company Denies its Robots Feed on the Dead". Wired.
+   Archived from the original on 29 July 2009. Retrieved 31 July 2009.
+
+     ^ "Cyclone Power Technologies Responds to Rumors about "Flesh Eating"
+   Military Robot" (PDF) (Press release). RTI Inc. 16 July 2009. pp. 1–2.
+   Archived (PDF) from the original on 23 August 2009.
+
+     ^ "Brief Project Overview, EATR: Energetically Autonomous Tactical
+   Robot" (PDF). RTI Inc. 6 April 2009. p. 22. Archived (PDF) from the
+   original on 23 August 2009.
+
+--
+   ISBN 0-942299-75-2.
+
+     ^ McGaughey, E (2018). "Will Robots Automate Your Job Away? Full
+   Employment, Basic Income, and Economic Democracy". Industrial Law
+   Journal. SSRN 3044448. Archived from the original on 24 May 2018.
+--
+
+     ^ Yan (30 July 2011). "Foxconn to replace workers with 1 million
+   robots in 3 years". Xinhua News Agency. Archived from the original on 8
+   October 2011. Retrieved 4 August 2011.
+
+     ^ "Judgment day – employment law and robots in the workplace".
+   futureofworkhub. Archived from the original on 3 April 2015. Retrieved
+   7 January 2015.
+
+     ^ Delaney, Kevin (17 February 2017). "The robot that takes your job
+   should pay taxes, says Bill Gates". Quartz. Archived from the original
+   on 5 March 2017. Retrieved 4 March 2017.
+--
+   September 2018. Retrieved 8 October 2018.
+
+     ^ "Contact Systems Pick and Place robots". Contact Systems. Archived
+   from the original on 14 September 2008. Retrieved 21 September 2008.
+
+--
+   23 May 2013. Retrieved 2 September 2011.
+
+     ^ "SpeciMinder". CSS Robotics. Archived from the original on 1 July
+   2009. Retrieved 25 September 2008.
+
+     ^ "ADAM robot". RMT Robotics. Archived from the original on 17 May
+   2006. Retrieved 25 September 2008.
+
+--
+   Retrieved 25 September 2008.
+
+     ^ "Eskorta robot". Fennec Fox Technologies. Archived from the
+   original on 6 December 2011. Retrieved 25 November 2011.
+
+     ^ "Delivery Robots & AGVs". Mobile Robots. Archived from the original
+   on 26 February 2010. Retrieved 25 September 2008.
+
+     ^ "Dante II, list of published papers". The Robotics Institute of
+   Carnegie Mellon University. Archived from the original on 15 May 2008.
+   Retrieved 16 September 2007.
+--
+   2007.
+
+     ^ ^a ^b "Robot assisted surgery: da Vinci Surgical System". Brown
+   University Division of Biology and Medicine. Archived from the original
+   on 16 September 2007. Retrieved 19 September 2007.
+
+     ^ "The Utilization of Robotic Space Probes in Deep Space
+   Missions:Case Study of AI Protocols and Nuclear Power Requirements".
+   Proceedings of 2011 International Conference on Mechanical Engineering,
+   Robotics and Aerospace. October 2011.
+
+     ^ Foust, Jeff (16 January 2012). "Review: Space Probes". Archived
+--
+   22 May 2009. Retrieved 21 September 2008.
+
+     ^ Graham, Stephen (12 June 2006). "America's robot army". New
+   Statesman. Archived from the original on 17 February 2012. Retrieved 24
+   September 2007.
+
+     ^ "Battlefield Robots: to Iraq, and Beyond". Defense Industry Daily.
+   20 June 2005. Archived from the original on 26 August 2007. Retrieved
+   24 September 2007.
+--
+   2007.
+
+     ^ Shachtman, Noah (28 March 2013). "WIRED: First Armed Robots on
+   Patrol in Iraq". Wired. Archived from the original on 3 April 2009.
+   Retrieved 8 February 2014.
+
+     ^ Shachtman, Noah (28 March 2013). "WIRED: Armed Robots Pushed To
+   Police". Wired. Archived from the original on 12 April 2009. Retrieved
+   8 February 2014.
+
+     ^ "America's Robot Army". Popularmechanics.com. 18 December 2009.
+   Archived from the original on 5 February 2010. Retrieved 8 February
+   2014.
+--
+   the original on 24 May 2012. Retrieved 27 July 2009.
+
+     ^ "Robotic age poses ethical dilemma". BBC News. 7 March 2007.
+   Archived from the original on 15 February 2009. Retrieved 2 January
+   2007.
+
+     ^ Christensen, Bill (26 May 2006). "Asimov's First Law: Japan Sets
+   Rules for Robots". Live Science. Archived from the original on 13
+   October 2008.
+
+     ^ "Japan drafts rules for advanced robots". UPI. 6 April 2007.
+   Archived from the original on 11 October 2008 – via physorg.com.
+
+     ^ "Building a Safe and Secure Social System Incorporating the
+   Coexistence of Humans and Robots" (Press release). Ministry of Economy,
+   Trade and Industry. March 2009. Archived from the original on 27
+   September 2011.
+
+     ^ Weng, Yueh-Hsuan; Chen, Chien-Hsun; Sun, Chuen-Tsai (25 April
+   2009). "Toward the Human–Robot Co-Existence Society: On Safety
+   Intelligence for Next Generation Robots". International Journal of
+   Social Robotics. 1 (4): 267–282. doi:10.1007/s12369-009-0019-1.
+   S2CID 36232530.
+
+     ^ Fox, Stuart (19 August 2009). "Evolving Robots Learn To Lie To Each
+   Other". Popular Science.
+
+--
+
+     ^ Topping, Mike; Smith, Jane (1999). "An Overview Of Handy 1, A
+   Rehabilitation Robot For The Severely Disabled". CSUN Center on
+   Disabilities Conference Proceedings. 1999. Proceedings: Session 59.
+   Archived from the original on 5 August 2009. Retrieved 14 August 2010.
+   "The early version of the Handy 1 system consisted of a Cyber 310
+   robotic arm with five degrees of freedom plus a gripper."
+
+     ^ Jeavans, Christine (29 November 2004). "Welcome to the ageing
+--
+   original on 6 September 2013. Retrieved 26 September 2007.
+
+     ^ "Robotic future of patient care". E-Health Insider. 16 August 2007.
+   Archived from the original on 21 November 2007. Retrieved 26 September
+   2007.
+--
+
+     ^ Fitch, Robert; Butler, Zack; Rus, Daniela. "Reconfiguration
+   Planning for Heterogeneous Self-Reconfiguring Robots" (PDF). Archived
+   (PDF) from the original on 19 June 2007. {{cite journal}}: Cite journal
+   requires |journal= (help)
+
+     ^ "Researchers build robot scientist that has already discovered a
+   new catalyst". phys.org. Retrieved 16 August 2020.
+
+--
+   Aitchison, Catherine M.; Bai, Yang; Wang, Xiaoyan; Li, Xiaobo; Alston,
+   Ben M.; Li, Buyi; Clowes, Rob; Rankin, Nicola; Harris, Brandon; Sprick,
+   Reiner Sebastian; Cooper, Andrew I. (July 2020). "A mobile robotic
+   chemist". Nature. 583 (7815): 237–241. Bibcode:2020Natur.583..237B.
+   doi:10.1038/s41586-020-2442-2. ISSN 1476-4687. PMID 32641813.
+   S2CID 220420261. Retrieved 16 August 2020.
+
+     ^ Schwartz, John (27 March 2007). "In the Lab: Robots That Slink and
+   Squirm". The New York Times. Archived from the original on 3 April
+   2015. Retrieved 22 September 2008.
+
+     ^ Eschner, Kat (25 March 2019). "Squishy robots now have squishy
+   computers to control them". Popular Science.
+
+     ^ "The softer side of robotics". May 2019. Archived from the original
+   on 17 May 2019. Retrieved 17 May 2019.
+
+     ^ "SRI/MobileRobots". activrobots.com. Archived from the original on
+   12 February 2009.
+
+     ^ "Open-source micro-robotic project". Archived from the original on
+   11 November 2007. Retrieved 28 October 2007.
+
+     ^ "Swarm". iRobot Corporation. Archived from the original on 27
+   September 2007. Retrieved 28 October 2007.
+
+--
+   September 2008.
+
+     ^ "Artists & Robots Exposition au Grand Palais du 5 avril au 9
+   juillet 2018". 14 August 2019. Archived from the original on 14 August
+   2019. Retrieved 3 February 2020.
+--
+   original on 5 December 2016. Retrieved 25 September 2016.
+
+     ^ R. Clarke. "Asimov's Laws of Robotics – Implications for
+   Information Technology". Australian National University/IEEE. Archived
+   from the original on 22 July 2008. Retrieved 25 September 2008.
+--
+   Science Fiction. Carroll & Graf. p. 56. ISBN 978-0-7867-1518-3.
+
+     ^ "Intelligent machines: Call for a ban on robots designed as sex
+   toys". BBC News. 15 September 2015. Archived from the original on 30
+   June 2018. Retrieved 21 June 2018.
+--
+     ^ Abdollahi, Hojjat; Mollahosseini, Ali; Lane, Josh T.; Mahoor,
+   Mohammad H. (November 2017). A pilot study on using an intelligent
+   life-like robot as a companion for elderly individuals with dementia
+   and depression. 2017 IEEE-RAS 17th International Conference on Humanoid
+   Robotics (Humanoids). pp. 541–546. arXiv:1712.02881.
+   Bibcode:2017arXiv171202881A. doi:10.1109/humanoids.2017.8246925.
+   ISBN 978-1-5386-4678-6. S2CID 1962455.
+--
+External links
+
+   Wikiquote has quotations related to Robot.
+
+     * Robotics at Curlie
+     * Journal of Field Robotics
+
+     * v
+--
+     * e
+
+   Robotics
+
+   Main articles
+--
+   Types
+
+     * Aerobot
+     * Anthropomorphic
+          + Humanoid
+--
+     * Food service
+     * Retail
+     * BEAM robotics
+     * Soft robotics
+
+   Classifications
+
+     * Biorobotics
+     * Unmanned vehicle
+          + aerial
+          + ground
+     * Mobile robot
+     * Microbotics
+     * Nanorobotics
+     * Necrobotics
+     * Robotic spacecraft
+          + Space probe
+     * Swarm
+     * Telerobotics
+     * Underwater
+          + remotely-operated
+--
+     * Climbing
+     * Electric unicycle
+     * Robot navigation
+
+   Research
+--
+     * Technological unemployment
+     * Terrainability
+     * Fictional robots
+
+     * Category
+--
+
+     * Mecha
+     * Robot
+     * Agricultural
+     * Seed-counting machine
+--
+     * Astroengineering
+     * Holography
+     * Robots and Cyborgs
+     * Self-replicating machines
+     * Simulated reality
+--
+     * Portal
+
+   Robot at Wikipedia's sister projects:
+   Definitions from Wiktionary
+   Media from Commons
+--
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Robot&oldid=1124191560"
+
+   Categories:
+     * Robotics
+     * Robots
+     * Czech words and phrases
+     * Science in popular culture

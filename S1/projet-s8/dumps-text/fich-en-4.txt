@@ -1,0 +1,601 @@
+   #alternate Edit this page Wikipedia (en)
+
+Software agent
+
+   From Wikipedia, the free encyclopedia
+   (Redirected from Automated bot)
+   Jump to navigation Jump to search
+   Computer program acting for a user
+
+   In computer science, a software agent is a computer program that acts
+   for a user or other program in a relationship of agency, which derives
+   from the Latin agere (to do): an agreement to act on one's behalf. Such
+   "action on behalf of" implies the authority to decide which, if any,
+   action is appropriate.^[1]^[2] Agents are colloquially known as bots,
+   from robot. They may be embodied, as when execution is paired with a
+   robot body, or as software such as a chatbot executing on a phone (e.g.
+   Siri) or other computing device. Software agents may be autonomous or
+   work together with other agents or people. Software agents interacting
+   with people (e.g. chatbots, human-robot interaction environments) may
+   possess human-like qualities such as natural language understanding and
+   speech, personality or embody humanoid form (see Asimo).
+
+   Related and derived concepts include intelligent agents (in particular
+   exhibiting some aspects of artificial intelligence, such as reasoning),
+   autonomous agents (capable of modifying the methods of achieving their
+   objectives), distributed agents (being executed on physically distinct
+   computers), multi-agent systems (distributed agents that work together
+   to achieve an objective that could not be accomplished by a single
+   agent acting alone), and mobile agents (agents that can relocate their
+   execution onto different processors).
+   [ ]
+
+Contents
+
+     * 1 Concepts
+          + 1.1 Distinguishing agents from programs
+          + 1.2 Intuitive distinguishing agents from objects
+          + 1.3 Distinguishing agents from expert systems
+          + 1.4 Distinguishing intelligent software agents from
+            intelligent agents in AI
+     * 2 Impact of software agents
+          + 2.1 Organizational impact
+          + 2.2 Work contentment and job satisfaction impact
+          + 2.3 Cultural impact
+          + 2.4 History
+     * 3 Examples of intelligent software agents
+          + 3.1 Buyer agents (shopping bots)
+          + 3.2 User agents (personal agents)
+          + 3.3 Monitoring-and-surveillance (predictive) agents
+          + 3.4 Data-mining agents
+          + 3.5 Networking and communicating agents
+          + 3.6 Software development agents (aka software bots)
+          + 3.7 Security agents
+     * 4 Design issues
+          + 4.1 Notions and frameworks for agents
+     * 5 See also
+     * 6 References
+     * 7 External links
+
+Concepts[edit]
+
+   The basic attributes of an autonomous software agent are that agents
+     * are not strictly invoked for a task, but activate themselves,
+     * may reside in wait status on a host, perceiving context,
+     * may get to run status on a host upon starting conditions,
+     * do not require interaction of user,
+     * may invoke other tasks including communication.
+
+   Nwana's Category of Software Agent
+
+   The term "agent" describes a software abstraction, an idea, or a
+   concept, similar to OOP terms such as methods, functions, and
+   objects.^[citation needed] The concept of an agent provides a
+   convenient and powerful way to describe a complex software entity that
+   is capable of acting with a certain degree of autonomy in order to
+   accomplish tasks on behalf of its host. But unlike objects, which are
+   defined in terms of methods and attributes, an agent is defined in
+   terms of its behavior.^[3]
+
+   Various authors have proposed different definitions of agents, these
+   commonly include concepts such as
+     * persistence (code is not executed on demand but runs continuously
+       and decides for itself when it should perform some activity)
+     * autonomy (agents have capabilities of task selection,
+       prioritization, goal-directed behavior, decision-making without
+       human intervention)
+     * social ability (agents are able to engage other components through
+       some sort of communication and coordination, they may collaborate
+       on a task)
+     * reactivity (agents perceive the context in which they operate and
+       react to it appropriately).
+
+Distinguishing agents from programs[edit]
+
+   All agents are programs, but not all programs are agents. Contrasting
+   the term with related concepts may help clarify its meaning. Franklin &
+   Graesser (1997)^[4] discuss four key notions that distinguish agents
+   from arbitrary programs: reaction to the environment, autonomy,
+   goal-orientation and persistence.
+
+Intuitive distinguishing agents from objects[edit]
+
+     * Agents are more autonomous than objects.
+     * Agents have flexible behavior: reactive, proactive, social.
+     * Agents have at least one thread of control but may have more.^[5]
+
+Distinguishing agents from expert systems[edit]
+
+     * Expert systems are not coupled to their environment.
+     * Expert systems are not designed for reactive, proactive behavior.
+     * Expert systems do not consider social ability.^[5]
+
+Distinguishing intelligent software agents from intelligent agents in
+AI[edit]
+
+     * Intelligent agents (also known as rational agents) are not just
+       computer programs: they may also be machines, human beings,
+       communities of human beings (such as firms) or anything that is
+       capable of goal-directed behavior.
+
+          (Russell & Norvig 2003) harv error: no target:
+          CITEREFRussellNorvig2003 (help)
+
+Impact of software agents[edit]
+
+   Software agents may offer various benefits to their end users by
+   automating complex or repetitive tasks.^[6] However, there are
+   organizational and cultural impacts of this technology that need to be
+   considered prior to implementing software agents.
+
+Organizational impact[edit]
+
+Work contentment and job satisfaction impact[edit]
+
+   People like to perform easy tasks providing the sensation of success
+   unless the repetition of the simple tasking is affecting the overall
+   output. In general implementing software agents to perform
+   administrative requirements provides a substantial increase in work
+   contentment, as administering their own work does never please the
+   worker. The effort freed up serves for a higher degree of engagement in
+   the substantial tasks of individual work. Hence, software agents may
+   provide the basics to implement self-controlled work, relieved from
+   hierarchical controls and interference.^[7] Such conditions may be
+   secured by application of software agents for required formal support.
+
+Cultural impact[edit]
+
+   The cultural effects of the implementation of software agents include
+   trust affliction, skills erosion, privacy attrition and social
+   detachment. Some users may not feel entirely comfortable fully
+   delegating important tasks to software applications. Those who start
+   relying solely on intelligent agents may lose important skills, for
+   example, relating to information literacy. In order to act on a user's
+   behalf, a software agent needs to have a complete understanding of a
+   user's profile, including his/her personal preferences. This, in turn,
+   may lead to unpredictable privacy issues. When users start relying on
+   their software agents more, especially for communication activities,
+   they may lose contact with other human users and look at the world with
+   the eyes of their agents. These consequences are what agent researchers
+   and users must consider when dealing with intelligent agent
+   technologies.^[8]
+
+History[edit]
+
+   The concept of an agent can be traced back to Hewitt's Actor Model
+   (Hewitt, 1977) - "A self-contained, interactive and
+   concurrently-executing object, possessing internal state and
+   communication capability."
+
+   To be more academic, software agent systems are a direct evolution of
+   Multi-Agent Systems (MAS). MAS evolved from Distributed Artificial
+   Intelligence (DAI), Distributed Problem Solving (DPS) and Parallel AI
+   (PAI), thus inheriting all characteristics (good and bad) from DAI and
+   AI.
+
+   John Sculley’s 1987 “Knowledge Navigator” video portrayed an image of a
+   relationship between end-users and agents. Being an ideal first, this
+   field experienced a series of unsuccessful top-down implementations,
+   instead of a piece-by-piece, bottom-up approach. The range of agent
+   types is now (from 1990) broad: WWW, search engines, etc.
+
+Examples of intelligent software agents[edit]
+
+   See also: Intelligent agent
+
+Buyer agents (shopping bots)[edit]
+
+   Buyer agents^[9] travel around a network (e.g. the internet) retrieving
+   information about goods and services. These agents, also known as
+   'shopping bots', work very efficiently for commodity products such as
+   CDs, books, electronic components, and other one-size-fits-all
+   products. Buyer agents are typically optimized to allow for digital
+   payment services used in e-commerce and traditional businesses.^[10]
+
+User agents (personal agents)[edit]
+
+   User agents, or personal agents, are intelligent agents that take
+   action on your behalf. In this category belong those intelligent agents
+   that already perform, or will shortly perform, the following tasks:
+     * Check your e-mail, sort it according to the user's order of
+       preference, and alert you when important emails arrive.
+     * Play computer games as your opponent or patrol game areas for you.
+     * Assemble customized news reports for you. There are several
+       versions of these, including CNN.
+     * Find information for you on the subject of your choice.
+     * Fill out forms on the Web automatically for you, storing your
+       information for future reference
+     * Scan Web pages looking for and highlighting text that constitutes
+       the "important" part of the information there
+     * Discuss topics with you ranging from your deepest fears to sports
+     * Facilitate with online job search duties by scanning known job
+       boards and sending the resume to opportunities who meet the desired
+       criteria
+     * Profile synchronization across heterogeneous social networks
+
+Monitoring-and-surveillance (predictive) agents[edit]
+
+   Monitoring and Surveillance Agents are used to observe and report on
+   equipment, usually computer systems. The agents may keep track of
+   company inventory levels, observe competitors' prices and relay them
+   back to the company, watch stock manipulation by insider trading and
+   rumors, etc.
+   service monitoring
+
+   For example, NASA's Jet Propulsion Laboratory has an agent that
+   monitors inventory, planning, schedules equipment orders to keep costs
+   down, and manages food storage facilities. These agents usually monitor
+   complex computer networks that can keep track of the configuration of
+   each computer connected to the network.
+
+   A special case of Monitoring-and-Surveillance agents are organizations
+   of agents used to emulate the Human Decision-Making process during
+   tactical operations. The agents monitor the status of assets
+   (ammunition, weapons available, platforms for transport, etc.) and
+   receive Goals (Missions) from higher level agents. The Agents then
+   pursue the Goals with the Assets at hand, minimizing expenditure of the
+   Assets while maximizing Goal Attainment. (See Popplewell, "Agents and
+   Applicability")
+
+Data-mining agents[edit]
+
+   This agent uses information technology to find trends and patterns in
+   an abundance of information from many different sources. The user can
+   sort through this information in order to find whatever information
+   they are seeking.
+
+   A data mining agent operates in a data warehouse discovering
+   information. A 'data warehouse' brings together information from many
+   different sources. "Data mining" is the process of looking through the
+   data warehouse to find information that you can use to take action,
+   such as ways to increase sales or keep customers who are considering
+   defecting.
+
+   'Classification' is one of the most common types of data mining, which
+   finds patterns in information and categorizes them into different
+   classes. Data mining agents can also detect major shifts in trends or a
+   key indicator and can detect the presence of new information and alert
+   you to it. For example, the agent may detect a decline in the
+   construction industry for an economy; based on this relayed information
+   construction companies will be able to make intelligent decisions
+   regarding the hiring/firing of employees or the purchase/lease of
+   equipment in order to best suit their firm.
+
+Networking and communicating agents[edit]
+
+   Some other examples of current intelligent agents include some spam
+   filters, game bots, and server monitoring tools. Search engine indexing
+   bots also qualify as intelligent agents.
+     * User agent - for browsing the World Wide Web
+     * Mail transfer agent - For serving E-mail, such as Microsoft
+       Outlook. Why? It communicates with the POP3 mail server, without
+       users having to understand POP3 command protocols. It even has rule
+       sets that filter mail for the user, thus sparing them the trouble
+       of having to do it themselves.
+     * SNMP agent
+     * In Unix-style networking servers, httpd is an HTTP daemon that
+       implements the Hypertext Transfer Protocol at the root of the World
+       Wide Web
+     * Management agents used to manage telecom devices
+     * Crowd simulation for safety planning or 3D computer graphics,
+     * Wireless beaconing agent is a simple process hosted single tasking
+       entity for implementing wireless lock or electronic leash in
+       conjunction with more complex software agents hosted e.g. on
+       wireless receivers.
+     * Use of autonomous agents (deliberately equipped with noise) to
+       optimize coordination in groups online.^[11]
+
+Software development agents (aka software bots)[edit]
+
+   Main article: Software bot
+
+   Software bots are becoming important in software engineering.^[12] An
+   example of a software bot is a bot that automatically repairs
+   continuous integration build failures.^[13]
+
+Security agents[edit]
+
+   Agents are also used in software security application to intercept,
+   examine and act on various types of content. Example include:
+     * Data Loss Prevention (DLP) Agents^[14] - examine user operations on
+       a computer or network, compare with policies specifying allowed
+       actions, and take appropriate action (e.g. allow, alert, block).
+       The more comprehensive DLP agents can also be used to perform EDR
+       functions.
+     * Endpoint Detection and Response (EDR) Agents - monitor all activity
+       on an endpoint computer in order to detect and respond to malicious
+       activities
+     * Cloud Access Security Broker (CASB) Agents - similar to DLP Agents,
+       however examining traffic going to cloud applications
+
+Design issues[edit]
+
+   Issues to consider in the development of agent-based systems include
+     * how tasks are scheduled and how synchronization of tasks is
+       achieved
+     * how tasks are prioritized by agents
+     * how agents can collaborate, or recruit resources,
+     * how agents can be re-instantiated in different environments, and
+       how their internal state can be stored,
+     * how the environment will be probed and how a change of environment
+       leads to behavioral changes of the agents
+     * how messaging and communication can be achieved,
+     * what hierarchies of agents are useful (e.g. task execution agents,
+       scheduling agents, resource providers ...).
+
+   For software agents to work together efficiently they must share
+   semantics of their data elements. This can be done by having computer
+   systems publish their metadata.
+
+   The definition of agent processing can be approached from two
+   interrelated directions:
+     * internal state processing and ontologies for representing knowledge
+     * interaction protocols – standards for specifying communication of
+       tasks
+
+   Agent systems are used to model real-world systems with concurrency or
+   parallel processing.
+     * Agent Machinery – Engines of various kinds, which support the
+       varying degrees of intelligence
+     * Agent Content – Data employed by the machinery in Reasoning and
+       Learning
+     * Agent Access – Methods to enable the machinery to perceive content
+       and perform actions as outcomes of Reasoning
+     * Agent Security – Concerns related to distributed computing,
+       augmented by a few special concerns related to agents
+
+   The agent uses its access methods to go out into local and remote
+   databases to forage for content. These access methods may include
+   setting up news stream delivery to the agent, or retrieval from
+   bulletin boards, or using a spider to walk the Web. The content that is
+   retrieved in this way is probably already partially filtered – by the
+   selection of the newsfeed or the databases that are searched. The agent
+   next may use its detailed searching or language-processing machinery to
+   extract keywords or signatures from the body of the content that has
+   been received or retrieved. This abstracted content (or event) is then
+   passed to the agent's Reasoning or inferencing machinery in order to
+   decide what to do with the new content. This process combines the event
+   content with the rule-based or knowledge content provided by the user.
+   If this process finds a good hit or match in the new content, the agent
+   may use another piece of its machinery to do a more detailed search on
+   the content. Finally, the agent may decide to take an action based on
+   the new content; for example, to notify the user that an important
+   event has occurred. This action is verified by a security function and
+   then given the authority of the user. The agent makes use of a
+   user-access method to deliver that message to the user. If the user
+   confirms that the event is important by acting quickly on the
+   notification, the agent may also employ its learning machinery to
+   increase its weighting for this kind of event.
+
+   Bots can act on behalf of their creators to do good as well as bad.
+   There are a few ways which bots can be created to demonstrate that they
+   are designed with the best intention and are not built to do harm. This
+   is first done by having a bot identify itself in the user-agent HTTP
+   header when communicating with a site. The source IP address must also
+   be validated to establish itself as legitimate. Next, the bot must also
+   always respect a site's robots.txt file since it has become the
+   standard across most of the web. And like respecting the robots.txt
+   file, bots should shy away from being too aggressive and respect any
+   crawl delay instructions.^[15]
+
+Notions and frameworks for agents[edit]
+
+     * DAML (DARPA Agent Markup Language)
+     * 3APL (Artificial Autonomous Agents Programming Language)
+     * GOAL agent programming language
+     * Open Agent Architecture (OAA)
+     * Web Ontology Language (OWL)
+     * daemons in Unix-like systems.
+     * Java Agent Template (JAT)
+     * Java Agent Development Framework (JADE)
+     * SARL agent programming language (arguably an Actor and not Agent
+       oriented paradigm)
+
+See also[edit]
+
+     * Agent architecture
+     * Chatbot
+     * Data loss prevention
+     * Endpoint detection and response
+
+References[edit]
+
+    1. ^ Nwana, H. S. (1996). "Software Agents: An Overview". Knowledge
+       Engineering Review. 21 (3): 205–244. CiteSeerX 10.1.1.50.660.
+       doi:10.1017/s026988890000789x. S2CID 7839197.
+    2. ^ Schermer, B. W. (2007). Software agents, surveillance, and the
+       right to privacy: A legislative framework for agent-enabled
+       surveillance (paperback). Vol. 21. Leiden University Press.
+       pp. 140, 205–244. hdl:1887/11951. ISBN 978-0-596-00712-6. Retrieved
+       2012-10-30.
+    3. ^ Wooldridge, M.; Jennings, N. R. (1995). "Intelligent agents:
+       theory and practice". 10 (2). Knowledge Engineering Review:
+       115–152. {{cite journal}}: Cite journal requires |journal= (help)
+    4. ^ Franklin, S.; Graesser, A. (1996). "Is it an Agent, or just a
+       Program?: A Taxonomy for Autonomous Agents". Intelligent Agents III
+       Agent Theories, Architectures, and Languages. Lecture Notes in
+       Computer Science. Vol. 1193. University of Memphis, Institute for
+       Intelligent Systems. pp. 21–35. doi:10.1007/BFb0013570.
+       ISBN 978-3-540-62507-0.
+    5. ^ ^a ^b Wooldridge, Michael J. (2002). An Introduction to
+       Multiagent Systems. New York: John Wiley & Sons. p. 27.
+       ISBN 978-0-471-49691-5.
+    6. ^ Serenko, A.; Detlor, B. (2004). "Intelligent agents as
+       innovations" (PDF). 18 (4): 364–381. {{cite journal}}: Cite journal
+       requires |journal= (help)
+    7. ^ Adonisi, M. (2003). "The relationship between Corporate
+       Entrepreneurship, Market Orientation, Organisational Flexibility
+       and Job satisfaction" (PDF) (Diss.). Fac.of Econ.and Mgmt.Sci.,
+       Univ.of Pretoria. {{cite journal}}: Cite journal requires |journal=
+       (help)
+    8. ^ Serenko, A.; Ruhi, U.; Cocosila, M. (2007). "Unplanned effects of
+       intelligent agents on Internet use: Social Informatics approach"
+       (PDF). 21 (1–2). Artificial Intelligence & Society: 141–166. {{cite
+       journal}}: Cite journal requires |journal= (help)
+    9. ^ Haag, Stephen (2006). "Management Information Systems for the
+       Information Age": 224–228. {{cite journal}}: Cite journal requires
+       |journal= (help)
+   10. ^ "Maximize Your Business Impact | How to Use Facebook Chatbots".
+       Keystone Click. 2016-08-26. Retrieved 2017-09-07.
+   11. ^ Shirado, Hirokazu; Christakis, Nicholas A (2017). "Locally noisy
+       autonomous agents improve global human coordination in network
+       experiments". Nature. 545 (7654): 370–374.
+       Bibcode:2017Natur.545..370S. doi:10.1038/nature22332. PMC 5912653.
+       PMID 28516927.
+   12. ^ Lebeuf, Carlene; Storey, Margaret-Anne; Zagalsky, Alexey (2018).
+       "Software Bots". IEEE Software. 35: 18–23.
+       doi:10.1109/MS.2017.4541027. S2CID 31931036.
+   13. ^ Urli, Simon; Yu, Zhongxing; Seinturier, Lionel; Monperrus, Martin
+       (2018). "How to design a program repair bot? Insights from the
+       Repairnator Project". Proceedings of the 40th International
+       Conference on Software Engineering Software Engineering in Practice
+       - ICSE-SEIP '18. pp. 95–104. arXiv:1811.09852.
+       doi:10.1145/3183519.3183540. ISBN 9781450356596. S2CID 49237449.
+   14. ^
+       https://info.digitalguardian.com/rs/768-OQW-145/images/SC-Labs-DLP-
+       GROUP-TEST-AND-DG-REVIEW.pdf?field_resource_type_value=analyst-repo
+       rts^[bare URL PDF]
+   15. ^ "How to Live by the Code of Good Bots". DARKReading from
+       Information World. 27 September 2017. Retrieved 2017-11-14.
+
+External links[edit]
+
+     * Software Agents: An Overview, Hyacinth S. Nwana. Knowledge
+       Engineering Review, 11(3):1–40, September 1996. Cambridge
+       University Press.
+     * FIPA The Foundation for Intelligent Physical Agents
+     * JADE Java Agent Developing Framework, an Open Source framework
+       developed by Telecom Italia Labs
+     * European Software-Agent Research Center
+     * SemanticAgent An Open Source framework to develop SWRL based Agents
+       on top of JADE
+     * Mobile-C A Multi-Agent Platform for Mobile C/C++ Agents.
+     * HLL High-Level Logic (HLL) Open Source Project.
+     * Open source project KATO for PHP and Java developers to write
+       software agents
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Software_agent&oldid=112340
+   6263"
+   Categories:
+     * Artificial intelligence
+
+   Hidden categories:
+     * CS1 errors: missing periodical
+     * All articles with bare URLs for citations
+     * Articles with bare URLs for citations from March 2022
+     * Articles with PDF format bare URLs for citations
+     * Articles with short description
+     * Short description is different from Wikidata
+     * All articles with unsourced statements
+     * Articles with unsourced statements from July 2008
+     * Harv and Sfn no-target errors
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * Talk
+     * Contributions
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+   [ ] English
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] More
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+     * Donate
+
+Contribute
+
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Wikidata item
+
+Print/export
+
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * العربية
+     * Български
+     * Deutsch
+     * Español
+     * فارسی
+     * Français
+     * Bahasa Indonesia
+     * עברית
+     * Lietuvių
+     * Magyar
+     * Nederlands
+     * 日本語
+     * Norsk bokmål
+     * Norsk nynorsk
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Simple English
+     * Српски / srpski
+     * Srpskohrvatski / српскохрватски
+     * Svenska
+     * Українська
+     * Tiếng Việt
+
+   Edit links
+
+     * This page was last edited on 23 November 2022, at 15:33 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License 3.0; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Mobile view
+     * Developers
+     * Statistics
+     * Cookie statement
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

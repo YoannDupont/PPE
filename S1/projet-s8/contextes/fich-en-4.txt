@@ -1,0 +1,16 @@
+   "action on behalf of" implies the authority to decide which, if any,
+   action is appropriate.^[1]^[2] Agents are colloquially known as bots,
+   from robot. They may be embodied, as when execution is paired with a
+   robot body, or as software such as a chatbot executing on a phone (e.g.
+   Siri) or other computing device. Software agents may be autonomous or
+   work together with other agents or people. Software agents interacting
+   with people (e.g. chatbots, human-robot interaction environments) may
+   possess human-like qualities such as natural language understanding and
+   speech, personality or embody humanoid form (see Asimo).
+--
+   header when communicating with a site. The source IP address must also
+   be validated to establish itself as legitimate. Next, the bot must also
+   always respect a site's robots.txt file since it has become the
+   standard across most of the web. And like respecting the robots.txt
+   file, bots should shy away from being too aggressive and respect any
+   crawl delay instructions.^[15]

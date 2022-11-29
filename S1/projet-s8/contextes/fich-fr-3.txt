@@ -1,0 +1,63 @@
+     * 1Web
+     * 2Messagerie instantanée et IRC
+     * 3Robots de jeu
+     * 4Utilisation malveillante
+     * 5Bot et assistance
+--
+   se connecte et interagit avec le serveur comme un programme client
+   utilisé par un humain, d'où le terme « bot », qui est la contraction
+   par aphérèse de « robot ».
+
+   Selon Andrew Leonard^[1], un bot est « un programme informatique
+--
+   Les bots sont développés principalement pour effectuer des tâches
+   répétitives. Ils sont également utiles lorsque la rapidité d'action est
+   un critère important, avec par exemple les robots de jeu, les robots
+   d'enchères, mais aussi pour simuler des réactions humaines, comme avec
+   les bots de messagerie instantanée. À l'origine, les bots sont préférés
+--
+Web[modifier | modifier le code]
+
+   Les robots d'indexation, tels que le Googlebot, sont la principale
+   utilisation des robots informatiques. Ils parcourent le web en indexant
+   les pages pour le compte de moteurs de recherche.
+
+--
+   nouvelle vie^[4].
+
+Robots de jeu[modifier | modifier le code]
+
+   Article détaillé : Bot (jeu vidéo).
+--
+
+   Il existe également des bots d'aide à l'administration de serveurs de
+   jeux vidéo, tel que le Big Brother Bot. Ces robots ne constituent en
+   aucun cas des joueurs artificiels.
+
+--
+   Des chercheurs comme Silvia Lombardo (chercheuse indépendante en
+   Italie) ont proposé l'idée que l'humanité entre dans une nouvelle ère :
+   le « Robocène » (où les robots sont physiques, mais aussi des bots
+   informatiques)^[5]. La dénomination de « Bad Bot » a été proposée^[5]
+   pour désigner les bots créés pour des usages malveillants, tels que par
+--
+   développés^[réf. souhaitée].
+
+   Les « robots de chat » (chatbots) sont utilisés quotidiennement.
+
+   Google Assistant et Siri sont considérés comme des assistants virtuels
+--
+    5. ↑ ^a b et c (en) Silvia Lombardo, « The Bad, the Good, and the
+       Rebellious Bots: World's First in Artificial Intelligence », sur
+       Analyzing Future Applications of AI, Sensors, and Robotics in
+       Society, 2021 (consulté le 21 mars 2021)
+    6. ↑ (en) Carole Cadwalladr, « The Cambridge Analytica files. ‘I made
+--
+Articles connexes[modifier | modifier le code]
+
+     * Automatisation des processus robotisés
+     * Botnet
+     * Robot d'indexation
+     * Robot IRC
+     * Spambot
+     * Social bot
