@@ -1,0 +1,13 @@
+<lang="fr">
+<page="fr-1">
+<text>Ici, le contenu du fichier fr-1.</text>
+</page> §
+<page="fr-2">
+<text>&amp; maintenant, le contenu du fichier fr-2.</text>
+</page> §
+</lang>
+<lang="en">
+<page="en-1">
+<text>Ici, le contenu du fichier en-1, avec une balise : &lt;text&gt;.</text>
+</page> §
+</lang>
